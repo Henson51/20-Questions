@@ -1,0 +1,232 @@
+
+Page
+4
+of 5
+accessibility
+accessibility_global
+accuracy
+accurate
+activity level
+aggressiveness
+agility
+amount of shedding
+annual_precipitation
+appeal
+aquatic adaptation
+aroma
+artificiality
+attack
+audience age appeal
+beautiful
+beauty
+big
+biodiversity
+body_size
+breakability
+brightness
+camouflage
+capacity
+carbon-footprint
+cardiovascular benefit
+career endurance
+championship contribution
+cleavage / fracture
+climate
+climbing ability
+color
+color vibrancy
+colorfulness
+combat_strength
+comfort
+comforting
+commonness
+company age
+company size
+complexity
+components
+composition
+conductivity
+coolness
+cost
+cost of living
+cost-value
+cost_of_living
+creative
+creativity
+crime rate
+cultural impact
+cuteness
+danger
+danger level
+danger-to-humans
+danger_to_humans
+danger_to_humans_1_10
+dangerous
+dangerousness
+data monetization
+defense
+density
+depth
+difficult
+difficulty
+domesticatability
+drinks
+dryness preference
+durability
+duration
+edibility
+edibleness
+education level
+elasticity
+electrical
+elevation
+emotional intensity
+endurance
+energy
+energy efficiency
+equipment_dependence
+expensive
+expensiveness
+fast
+flexibility
+food
+formation
+fragile
+fragility
+fragility_scale_1_10
+frequency
+frequent
+friendliness
+fuel_efficiency
+fun
+functional
+gdp
+geological time scale
+geological_activity
+grain
+gross
+hairiness
+handling
+hardness
+healthiness
+heaviness
+heavy
+height
+height advantage
+historical significance
+human_habitability
+humid
+humidity
+impact
+impactful
+injury_risk
+innovation
+innovation r&d
+intelligence
+intelligent
+intense
+intensity
+juiciness
+large
+layering
+learning curve
+lethal
+lifespan
+long
+longevity
+loudness
+luster
+maintenance
+maneuverability
+market capitalization
+mass
+material
+mean
+measurability
+median income
+mental
+mental engagement
+mobility
+monetary_value
+nation
+natural_beauty
+naturality
+nice
+noise
+or cultural milestone
+permeability
+physical
+physical_contact_level
+platform based
+playmaking
+plentiful
+politics
+popularity
+population
+population_density
+portability
+portability_1_10
+portable
+price
+production cost
+proximity
+range
+rarity
+rarity_1_10
+regulation
+replicability
+required_endurance
+required_power_strength
+roughness
+safety
+safety risk
+savoriness
+scale
+scoring ability
+screen time
+shape
+size
+size_scale_1_10
+skill complexity
+skill_technique_complexity
+smoothness
+sociability
+social
+social_behavior
+softness
+sound
+sourness
+specific region
+speed
+speed_scale_1_10
+speediness
+state
+stationary
+story continuity
+strength
+strength gain potential
+strong
+sweetness
+team_size
+tech_complexity_1_10
+temperature
+temperature_extremity
+terrain versatility
+texture
+transparency
+typical_indoor_use_1_10
+urbanization
+usefulness
+utility
+value
+velocity
+visibility
+visible
+volatility
+warm
+warmth_climate
+weight
+weight_scale_1_10
+width
+win contribution
+woodenness
