@@ -1,0 +1,15 @@
+size
+weight
+naturality
+edibility
+intelligence
+dangerous
+mobility
+portability
+cost
+hardness
+temperature
+loudness
+usefulness
+popularity
+indoor_outdoor
