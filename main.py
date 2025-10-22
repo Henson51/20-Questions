@@ -8,14 +8,14 @@ noun_data = {
     for entry in raw_data
 }
 
-first_noun = next(iter(noun_data))
-properties = list(noun_data[first_noun].keys())
+
+properties = set()
+for prop in noun_data.values():
+    properties.update(prop.keys())
 
 
 
-# print(properties)
-# print(noun_data["barge"]["size"])
-################################################################################
+################################################################################ Greedy Algorithm
 def best_question(noun_data, remaining_nouns, asked_properties):
     best_property = None
     best_split_score = float("inf")
