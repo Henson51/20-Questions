@@ -1,7 +1,7 @@
 import json
 
 # Load the JSONL file
-with open("noun_property_ratings.jsonl", "r") as file:
+with open("grouped_noun_property_ratings_wide.jsonl", "r") as file:
     raw_data = [json.loads(line) for line in file]
 
 noun_data = {

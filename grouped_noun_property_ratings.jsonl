@@ -94,7 +94,7 @@
 {"noun": "cat", "category": "Domesticated Mammals", "property": "grooming_needs", "rating": 3}
 {"noun": "cat", "category": "Domesticated Mammals", "property": "intelligence_trainability", "rating": 5}
 {"noun": "cat", "category": "Domesticated Mammals", "property": "vocalization_level", "rating": 3}
-{"noun": "cat", "category": "Domesticated Mammals", "property": "lifespan", "rating": -1}
+{"noun": "cat", "category": "Domesticated Mammals", "property": "lifespan", "rating": 1}
 {"noun": "cat", "category": "Domesticated Mammals", "property": "indoor_suitability", "rating": 9}
 {"noun": "cat", "category": "Domesticated Mammals", "property": "playfulness", "rating": 8}
 {"noun": "cat", "category": "Domesticated Mammals", "property": "care_difficulty", "rating": 3}
