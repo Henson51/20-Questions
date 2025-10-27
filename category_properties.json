@@ -1,0 +1,1101 @@
+{
+  "Domesticated Mammals": {
+    "description": "Properties for pets and farm animals",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the animal",
+        "scale": "1 = very small (hamster, guinea pig), 5 = medium (cat, small dog), 10 = very large (cow, horse)"
+      },
+      {
+        "name": "commonness_as_pet",
+        "description": "How commonly kept as a household pet",
+        "scale": "1 = rarely/never a pet (cow, mule), 5 = sometimes a pet (rabbit, goat), 10 = very common pet (dog, cat)"
+      },
+      {
+        "name": "energy_level",
+        "description": "Activity and energy level",
+        "scale": "1 = very low energy/lazy, 5 = moderate, 10 = extremely high energy"
+      },
+      {
+        "name": "grooming_needs",
+        "description": "Amount of grooming or coat maintenance required",
+        "scale": "1 = minimal grooming needed, 5 = moderate, 10 = extensive grooming required"
+      },
+      {
+        "name": "intelligence_trainability",
+        "description": "Intelligence and ease of training",
+        "scale": "1 = difficult to train/low intelligence, 5 = moderate, 10 = highly intelligent and easily trained"
+      },
+      {
+        "name": "vocalization_level",
+        "description": "How much noise the animal makes",
+        "scale": "1 = very quiet, 5 = moderate noise, 10 = very loud/frequent vocalizations"
+      },
+      {
+        "name": "lifespan",
+        "description": "Expected lifespan",
+        "scale": "1 = very short (few years), 5 = moderate (10-15 years), 10 = very long (20+ years)"
+      },
+      {
+        "name": "indoor_suitability",
+        "description": "How suitable for indoor living",
+        "scale": "1 = must be outdoors (cow, horse), 5 = can be either, 10 = ideal for indoor (hamster, cat)"
+      },
+      {
+        "name": "playfulness",
+        "description": "Playful and interactive nature",
+        "scale": "1 = not playful, 5 = moderately playful, 10 = extremely playful"
+      },
+      {
+        "name": "care_difficulty",
+        "description": "Overall difficulty of care and maintenance",
+        "scale": "1 = very easy to care for, 5 = moderate difficulty, 10 = very difficult/demanding"
+      }
+    ]
+  },
+  "Wild Mammals": {
+    "description": "Properties for non-domesticated mammals",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the animal",
+        "scale": "1 = very small (mouse, bat), 5 = medium (fox, raccoon), 10 = very large (elephant, whale)"
+      },
+      {
+        "name": "dangerousness",
+        "description": "Potential danger to humans",
+        "scale": "1 = harmless, 5 = can be dangerous if provoked, 10 = extremely dangerous predator"
+      },
+      {
+        "name": "speed",
+        "description": "Maximum running/movement speed",
+        "scale": "1 = very slow, 5 = moderate speed, 10 = extremely fast"
+      },
+      {
+        "name": "habitat_specificity",
+        "description": "How specific or adaptable habitat needs are",
+        "scale": "1 = very specific habitat (polar bear, panda), 5 = somewhat adaptable, 10 = highly adaptable (raccoon, fox)"
+      },
+      {
+        "name": "sighting_commonness",
+        "description": "How commonly seen by humans",
+        "scale": "1 = very rare to see, 5 = occasionally seen, 10 = commonly seen"
+      },
+      {
+        "name": "social_behavior",
+        "description": "Tendency to live in groups vs alone",
+        "scale": "1 = strictly solitary, 5 = sometimes social, 10 = highly social/pack animals"
+      },
+      {
+        "name": "diet_type",
+        "description": "Position on carnivore-herbivore spectrum",
+        "scale": "1 = strict herbivore, 5 = omnivore, 10 = strict carnivore"
+      },
+      {
+        "name": "climbing_ability",
+        "description": "Ability to climb trees or vertical surfaces",
+        "scale": "1 = cannot climb at all, 5 = moderate climbing, 10 = excellent climber"
+      },
+      {
+        "name": "aquatic_affinity",
+        "description": "Comfort and ability in water",
+        "scale": "1 = avoids water, 5 = comfortable in water, 10 = primarily aquatic (whale, dolphin)"
+      },
+      {
+        "name": "nocturnal_tendency",
+        "description": "Tendency to be active at night",
+        "scale": "1 = strictly diurnal, 5 = crepuscular/flexible, 10 = strictly nocturnal"
+      }
+    ]
+  },
+  "Reptiles & Amphibians": {
+    "description": "Properties for reptiles and amphibians",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the animal",
+        "scale": "1 = very small (gecko), 5 = medium (iguana), 10 = very large (crocodile)"
+      },
+      {
+        "name": "dangerousness",
+        "description": "Potential danger to humans",
+        "scale": "1 = harmless, 5 = can be dangerous, 10 = extremely dangerous"
+      },
+      {
+        "name": "aquatic_dependency",
+        "description": "Need for water/aquatic environment",
+        "scale": "1 = desert dwelling, 5 = semi-aquatic, 10 = fully aquatic"
+      },
+      {
+        "name": "temperature_tolerance",
+        "description": "Range of temperature tolerance",
+        "scale": "1 = very narrow range, 5 = moderate adaptability, 10 = wide temperature tolerance"
+      },
+      {
+        "name": "speed",
+        "description": "Maximum movement speed",
+        "scale": "1 = very slow, 5 = moderate, 10 = very fast"
+      },
+      {
+        "name": "pet_popularity",
+        "description": "How commonly kept as a pet",
+        "scale": "1 = never kept as pet, 5 = sometimes kept, 10 = very popular pet"
+      },
+      {
+        "name": "venom_toxicity",
+        "description": "Level of venom or toxicity",
+        "scale": "1 = no venom/toxicity, 5 = mildly venomous, 10 = highly venomous/toxic"
+      },
+      {
+        "name": "camouflage_ability",
+        "description": "Ability to blend with environment or change color",
+        "scale": "1 = no camouflage ability, 5 = moderate, 10 = exceptional (chameleon)"
+      },
+      {
+        "name": "lifespan",
+        "description": "Expected lifespan",
+        "scale": "1 = very short (few years), 5 = moderate (10-20 years), 10 = very long (50+ years)"
+      },
+      {
+        "name": "activity_level",
+        "description": "General activity and movement level",
+        "scale": "1 = very sedentary, 5 = moderately active, 10 = highly active"
+      }
+    ]
+  },
+  "Birds, Fish, Insects & Other Animals": {
+    "description": "Properties for birds, fish, insects, and other non-mammal, non-reptile animals",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the animal",
+        "scale": "1 = very small (ant, bee), 5 = medium (chicken, crow), 10 = very large (eagle, shark)"
+      },
+      {
+        "name": "flight_capability",
+        "description": "Ability to fly (mainly for birds and insects)",
+        "scale": "1 = cannot fly (penguin, chicken), 5 = limited flight, 10 = excellent flyer"
+      },
+      {
+        "name": "aquatic_ability",
+        "description": "Swimming ability or aquatic nature",
+        "scale": "1 = cannot swim/terrestrial, 5 = semi-aquatic, 10 = fully aquatic (fish)"
+      },
+      {
+        "name": "speed",
+        "description": "Maximum speed of movement",
+        "scale": "1 = very slow, 5 = moderate speed, 10 = extremely fast"
+      },
+      {
+        "name": "dangerousness",
+        "description": "Potential danger to humans",
+        "scale": "1 = harmless, 5 = can be dangerous, 10 = highly dangerous"
+      },
+      {
+        "name": "commonness",
+        "description": "How commonly encountered by humans",
+        "scale": "1 = very rare, 5 = occasionally seen, 10 = very common"
+      },
+      {
+        "name": "intelligence",
+        "description": "Cognitive abilities and intelligence",
+        "scale": "1 = basic instinct only, 5 = moderate intelligence, 10 = highly intelligent"
+      },
+      {
+        "name": "social_behavior",
+        "description": "Tendency to live/move in groups",
+        "scale": "1 = strictly solitary, 5 = sometimes social, 10 = highly social/swarms/flocks"
+      },
+      {
+        "name": "human_interaction",
+        "description": "Level of domestication or comfort with humans",
+        "scale": "1 = wild/avoids humans, 5 = tolerates humans, 10 = domesticated (chicken)"
+      },
+      {
+        "name": "food_value",
+        "description": "Value as human food source",
+        "scale": "1 = not eaten by humans, 5 = occasionally eaten, 10 = major food source"
+      }
+    ]
+  },
+  "Trees": {
+    "description": "Properties for trees",
+    "properties": [
+      {
+        "name": "height",
+        "description": "Typical mature height",
+        "scale": "1 = very short (10-20 ft), 5 = medium (40-60 ft), 10 = very tall (100+ ft)"
+      },
+      {
+        "name": "canopy_width",
+        "description": "Width of canopy spread",
+        "scale": "1 = narrow/columnar, 5 = moderate spread, 10 = very wide spreading"
+      },
+      {
+        "name": "growth_rate",
+        "description": "Speed of growth",
+        "scale": "1 = very slow growing, 5 = moderate, 10 = very fast growing"
+      },
+      {
+        "name": "longevity",
+        "description": "Lifespan of the tree",
+        "scale": "1 = short-lived (20-30 years), 5 = moderate (50-100 years), 10 = very long-lived (hundreds of years)"
+      },
+      {
+        "name": "shade_density",
+        "description": "Density of foliage and shade provided",
+        "scale": "1 = sparse/light shade, 5 = moderate shade, 10 = very dense/deep shade"
+      },
+      {
+        "name": "fruit_production",
+        "description": "Production of edible fruit or nuts",
+        "scale": "1 = no edible fruit, 5 = produces some fruit, 10 = major fruit/nut producer"
+      },
+      {
+        "name": "ornamental_value",
+        "description": "Visual appeal and landscaping value",
+        "scale": "1 = low ornamental value, 5 = moderately attractive, 10 = highly ornamental"
+      },
+      {
+        "name": "climate_hardiness",
+        "description": "Range of climates tolerated",
+        "scale": "1 = very specific climate needs, 5 = moderately adaptable, 10 = grows in many climates"
+      },
+      {
+        "name": "maintenance_needs",
+        "description": "Amount of care and maintenance required",
+        "scale": "1 = very low maintenance, 5 = moderate care, 10 = high maintenance"
+      },
+      {
+        "name": "wood_value",
+        "description": "Commercial value of wood/timber",
+        "scale": "1 = low wood value, 5 = moderate value, 10 = highly valuable timber"
+      }
+    ]
+  },
+  "Non-Tree Plants": {
+    "description": "Properties for non-tree plants",
+    "properties": [
+      {
+        "name": "height",
+        "description": "Typical mature height",
+        "scale": "1 = ground cover (inches), 5 = medium (1-3 feet), 10 = tall (6+ feet)"
+      },
+      {
+        "name": "maintenance_needs",
+        "description": "Amount of care required",
+        "scale": "1 = very low maintenance, 5 = moderate, 10 = high maintenance"
+      },
+      {
+        "name": "sun_requirements",
+        "description": "Amount of sunlight needed",
+        "scale": "1 = full shade, 5 = partial sun, 10 = full sun required"
+      },
+      {
+        "name": "water_needs",
+        "description": "Watering requirements",
+        "scale": "1 = drought tolerant, 5 = moderate water, 10 = very high water needs"
+      },
+      {
+        "name": "growing_season",
+        "description": "Length of active growing/blooming season",
+        "scale": "1 = very short season, 5 = moderate season, 10 = year-round/long season"
+      },
+      {
+        "name": "ornamental_value",
+        "description": "Visual appeal and decorative value",
+        "scale": "1 = low ornamental value, 5 = moderately attractive, 10 = highly ornamental"
+      },
+      {
+        "name": "edibility",
+        "description": "Value as edible plant",
+        "scale": "1 = not edible, 5 = partially edible, 10 = highly edible/culinary herb"
+      },
+      {
+        "name": "invasiveness",
+        "description": "Tendency to spread aggressively",
+        "scale": "1 = non-invasive, 5 = moderately spreading, 10 = highly invasive"
+      },
+      {
+        "name": "fragrance",
+        "description": "Strength and pleasantness of scent",
+        "scale": "1 = no fragrance, 5 = mild pleasant scent, 10 = strong fragrance"
+      },
+      {
+        "name": "hardiness",
+        "description": "Ability to survive difficult conditions",
+        "scale": "1 = very delicate, 5 = moderately hardy, 10 = extremely hardy"
+      }
+    ]
+  },
+  "Fruits": {
+    "description": "Properties for fruits",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the fruit",
+        "scale": "1 = very small (berry), 5 = medium (apple), 10 = very large (watermelon)"
+      },
+      {
+        "name": "sweetness",
+        "description": "Sugar content and sweetness level",
+        "scale": "1 = not sweet/tart, 5 = moderately sweet, 10 = very sweet"
+      },
+      {
+        "name": "commonness",
+        "description": "Availability and familiarity",
+        "scale": "1 = very rare/exotic, 5 = moderately common, 10 = extremely common"
+      },
+      {
+        "name": "price_level",
+        "description": "Cost and luxury level",
+        "scale": "1 = very inexpensive, 5 = moderate price, 10 = expensive/luxury fruit"
+      },
+      {
+        "name": "juice_content",
+        "description": "Amount of juice/moisture",
+        "scale": "1 = very dry, 5 = moderately juicy, 10 = very juicy"
+      },
+      {
+        "name": "perishability",
+        "description": "How quickly it spoils",
+        "scale": "1 = long shelf life, 5 = moderate spoilage rate, 10 = spoils very quickly"
+      },
+      {
+        "name": "seed_prominence",
+        "description": "Size and number of seeds",
+        "scale": "1 = seedless or tiny seeds, 5 = moderate seeds, 10 = many large seeds"
+      },
+      {
+        "name": "preparation_needs",
+        "description": "Amount of preparation required to eat",
+        "scale": "1 = ready to eat (banana), 5 = some prep (orange), 10 = extensive prep (coconut)"
+      },
+      {
+        "name": "nutritional_density",
+        "description": "Vitamin and nutrient content",
+        "scale": "1 = low nutrients, 5 = moderate nutrients, 10 = very nutrient-dense"
+      },
+      {
+        "name": "texture_firmness",
+        "description": "Firmness of flesh when ripe",
+        "scale": "1 = very soft/mushy, 5 = moderate firmness, 10 = very firm/crisp"
+      }
+    ]
+  },
+  "Other Raw Foods": {
+    "description": "Properties for raw foods that aren't fruits",
+    "properties": [
+      {
+        "name": "protein_content",
+        "description": "Level of protein",
+        "scale": "1 = no protein, 5 = moderate protein, 10 = very high protein"
+      },
+      {
+        "name": "preparation_required",
+        "description": "Amount of prep before eating/cooking",
+        "scale": "1 = minimal prep, 5 = moderate prep, 10 = extensive preparation"
+      },
+      {
+        "name": "perishability",
+        "description": "How quickly it spoils",
+        "scale": "1 = long shelf life, 5 = moderate, 10 = spoils very quickly"
+      },
+      {
+        "name": "price_level",
+        "description": "Cost relative to other foods",
+        "scale": "1 = very inexpensive, 5 = moderate cost, 10 = expensive/premium"
+      },
+      {
+        "name": "cooking_versatility",
+        "description": "Number of ways it can be prepared",
+        "scale": "1 = limited uses, 5 = moderate versatility, 10 = extremely versatile"
+      },
+      {
+        "name": "flavor_intensity",
+        "description": "Strength of taste",
+        "scale": "1 = very mild, 5 = moderate flavor, 10 = very strong/intense"
+      },
+      {
+        "name": "texture",
+        "description": "Physical texture when raw",
+        "scale": "1 = very soft, 5 = moderate, 10 = very hard/crunchy"
+      },
+      {
+        "name": "nutritional_density",
+        "description": "Overall nutrient content",
+        "scale": "1 = low nutrients, 5 = moderate, 10 = very nutrient-dense"
+      },
+      {
+        "name": "dietary_commonness",
+        "description": "How commonly eaten in typical diets",
+        "scale": "1 = rarely eaten, 5 = occasionally eaten, 10 = dietary staple"
+      },
+      {
+        "name": "storage_difficulty",
+        "description": "Difficulty of proper storage",
+        "scale": "1 = easy to store anywhere, 5 = needs specific conditions, 10 = very difficult to store"
+      }
+    ]
+  },
+  "Prepared Foods & Meals": {
+    "description": "Properties for prepared dishes and meals",
+    "properties": [
+      {
+        "name": "preparation_complexity",
+        "description": "Difficulty of making the dish",
+        "scale": "1 = very simple, 5 = moderate skill needed, 10 = requires expert skills"
+      },
+      {
+        "name": "meal_formality",
+        "description": "Formality level of the dish",
+        "scale": "1 = casual fast food, 5 = casual dining, 10 = fine dining/formal"
+      },
+      {
+        "name": "spiciness",
+        "description": "Heat level from spices",
+        "scale": "1 = not spicy at all, 5 = moderately spicy, 10 = extremely spicy"
+      },
+      {
+        "name": "richness",
+        "description": "Heaviness and richness (fat/cream content)",
+        "scale": "1 = very light, 5 = moderate, 10 = very rich/heavy"
+      },
+      {
+        "name": "serving_temperature",
+        "description": "Typical temperature when served",
+        "scale": "1 = cold/frozen, 5 = room temperature, 10 = very hot"
+      },
+      {
+        "name": "popularity",
+        "description": "How commonly ordered/made",
+        "scale": "1 = very uncommon, 5 = moderately popular, 10 = extremely popular"
+      },
+      {
+        "name": "price_level",
+        "description": "Typical cost of the dish",
+        "scale": "1 = very cheap, 5 = moderate price, 10 = expensive"
+      },
+      {
+        "name": "healthiness",
+        "description": "Nutritional value and health level",
+        "scale": "1 = very unhealthy, 5 = moderate, 10 = very healthy"
+      },
+      {
+        "name": "portion_size",
+        "description": "Typical serving size",
+        "scale": "1 = small portion/appetizer, 5 = moderate meal, 10 = very large portion"
+      },
+      {
+        "name": "cultural_specificity",
+        "description": "How tied to specific cuisine/culture",
+        "scale": "1 = universal/generic, 5 = somewhat cultural, 10 = very culturally specific"
+      }
+    ]
+  },
+  "Aircraft": {
+    "description": "Properties for flying vehicles",
+    "properties": [
+      {
+        "name": "size_capacity",
+        "description": "Size and passenger/cargo capacity",
+        "scale": "1 = very small (1-2 people), 5 = medium (10-50 people), 10 = very large (hundreds)"
+      },
+      {
+        "name": "speed",
+        "description": "Maximum speed capability",
+        "scale": "1 = very slow, 5 = moderate speed, 10 = supersonic/very fast"
+      },
+      {
+        "name": "range",
+        "description": "Maximum distance capability",
+        "scale": "1 = very short range, 5 = moderate range, 10 = intercontinental"
+      },
+      {
+        "name": "altitude_capability",
+        "description": "Maximum altitude",
+        "scale": "1 = low altitude only, 5 = medium altitude, 10 = very high altitude"
+      },
+      {
+        "name": "cost",
+        "description": "Purchase and operation cost",
+        "scale": "1 = relatively inexpensive, 5 = moderate cost, 10 = extremely expensive"
+      },
+      {
+        "name": "maneuverability",
+        "description": "Agility and handling",
+        "scale": "1 = poor maneuverability, 5 = moderate, 10 = highly maneuverable"
+      },
+      {
+        "name": "noise_level",
+        "description": "Amount of noise produced",
+        "scale": "1 = very quiet, 5 = moderate noise, 10 = extremely loud"
+      },
+      {
+        "name": "fuel_efficiency",
+        "description": "Fuel economy",
+        "scale": "1 = very inefficient, 5 = moderate, 10 = very efficient"
+      },
+      {
+        "name": "commonness",
+        "description": "How commonly seen/used",
+        "scale": "1 = very rare, 5 = occasionally seen, 10 = very common"
+      },
+      {
+        "name": "military_use",
+        "description": "Likelihood of military vs civilian use",
+        "scale": "1 = purely civilian, 5 = both civilian and military, 10 = primarily military"
+      }
+    ]
+  },
+  "Motorcycles": {
+    "description": "Properties for motorcycles",
+    "properties": [
+      {
+        "name": "engine_size",
+        "description": "Engine displacement/power",
+        "scale": "1 = very small engine (under 250cc), 5 = medium (500-750cc), 10 = very large (1000cc+)"
+      },
+      {
+        "name": "speed_capability",
+        "description": "Maximum speed",
+        "scale": "1 = low speed, 5 = moderate speed, 10 = very high speed"
+      },
+      {
+        "name": "comfort_level",
+        "description": "Comfort for long rides",
+        "scale": "1 = uncomfortable/sport position, 5 = moderate comfort, 10 = very comfortable touring"
+      },
+      {
+        "name": "off_road_capability",
+        "description": "Ability to handle off-road terrain",
+        "scale": "1 = street only, 5 = some off-road, 10 = pure off-road/dirt bike"
+      },
+      {
+        "name": "price",
+        "description": "Purchase cost",
+        "scale": "1 = budget/entry level, 5 = mid-range, 10 = premium/expensive"
+      },
+      {
+        "name": "fuel_efficiency",
+        "description": "Miles per gallon",
+        "scale": "1 = poor fuel economy, 5 = moderate, 10 = excellent fuel economy"
+      },
+      {
+        "name": "maintenance_needs",
+        "description": "Maintenance requirements",
+        "scale": "1 = low maintenance, 5 = moderate, 10 = high maintenance"
+      },
+      {
+        "name": "beginner_friendliness",
+        "description": "Suitability for new riders",
+        "scale": "1 = expert only, 5 = intermediate, 10 = beginner friendly"
+      },
+      {
+        "name": "cargo_capacity",
+        "description": "Storage and carrying ability",
+        "scale": "1 = no cargo space, 5 = moderate storage, 10 = extensive cargo capacity"
+      },
+      {
+        "name": "style_aesthetic",
+        "description": "Visual appeal and style factor",
+        "scale": "1 = utilitarian/plain, 5 = moderate style, 10 = iconic/beautiful design"
+      }
+    ]
+  },
+  "Cars, Trucks, Boats & Other Motorized Vehicles": {
+    "description": "Properties for cars, trucks, boats, and other motorized ground/water vehicles",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size of the vehicle",
+        "scale": "1 = very small (compact car), 5 = medium (sedan/SUV), 10 = very large (semi truck)"
+      },
+      {
+        "name": "speed_capability",
+        "description": "Maximum speed potential",
+        "scale": "1 = slow, 5 = moderate speed, 10 = very fast/sport vehicle"
+      },
+      {
+        "name": "passenger_capacity",
+        "description": "Number of people it can carry",
+        "scale": "1 = 1-2 people, 5 = 4-6 people, 10 = many passengers (bus)"
+      },
+      {
+        "name": "cargo_capacity",
+        "description": "Amount of cargo/goods it can carry",
+        "scale": "1 = minimal cargo, 5 = moderate cargo, 10 = massive cargo capacity"
+      },
+      {
+        "name": "fuel_efficiency",
+        "description": "Fuel economy",
+        "scale": "1 = very inefficient, 5 = moderate, 10 = very efficient"
+      },
+      {
+        "name": "luxury_level",
+        "description": "Comfort and luxury features",
+        "scale": "1 = basic/utilitarian, 5 = moderate comfort, 10 = luxury vehicle"
+      },
+      {
+        "name": "off_road_capability",
+        "description": "Ability to handle rough terrain",
+        "scale": "1 = paved roads only, 5 = some off-road, 10 = excellent off-road"
+      },
+      {
+        "name": "price",
+        "description": "Purchase cost",
+        "scale": "1 = budget/economy, 5 = mid-range, 10 = expensive/luxury"
+      },
+      {
+        "name": "commonness",
+        "description": "How commonly seen on roads/water",
+        "scale": "1 = very rare, 5 = occasionally seen, 10 = very common"
+      },
+      {
+        "name": "specialization",
+        "description": "How specialized vs general purpose",
+        "scale": "1 = general purpose, 5 = somewhat specialized, 10 = highly specialized (ambulance, dump truck)"
+      }
+    ]
+  },
+  "Non-Motorized Transportation": {
+    "description": "Properties for non-motorized vehicles and transportation methods",
+    "properties": [
+      {
+        "name": "physical_effort",
+        "description": "Amount of physical effort required to use",
+        "scale": "1 = minimal effort, 5 = moderate effort, 10 = high physical exertion"
+      },
+      {
+        "name": "speed",
+        "description": "Maximum speed achievable",
+        "scale": "1 = very slow, 5 = moderate speed, 10 = can go fast"
+      },
+      {
+        "name": "capacity",
+        "description": "Number of people or amount of cargo",
+        "scale": "1 = single person/minimal cargo, 5 = 2-3 people, 10 = many people/large cargo"
+      },
+      {
+        "name": "terrain_versatility",
+        "description": "Variety of terrain it can handle",
+        "scale": "1 = very specific terrain only, 5 = moderate versatility, 10 = works on many surfaces"
+      },
+      {
+        "name": "portability",
+        "description": "Ease of transport and storage",
+        "scale": "1 = not portable at all, 5 = somewhat portable, 10 = very portable/foldable"
+      },
+      {
+        "name": "skill_required",
+        "description": "Skill level needed to operate",
+        "scale": "1 = easy to use, 5 = moderate skill, 10 = difficult/requires training"
+      },
+      {
+        "name": "cost",
+        "description": "Purchase price",
+        "scale": "1 = very inexpensive, 5 = moderate cost, 10 = expensive"
+      },
+      {
+        "name": "maintenance_needs",
+        "description": "Amount of upkeep required",
+        "scale": "1 = very low maintenance, 5 = moderate, 10 = high maintenance"
+      },
+      {
+        "name": "weather_dependency",
+        "description": "How affected by weather conditions",
+        "scale": "1 = works in any weather, 5 = somewhat weather dependent, 10 = very weather dependent"
+      },
+      {
+        "name": "recreational_vs_practical",
+        "description": "Primary use for recreation vs practical transport",
+        "scale": "1 = purely practical transport, 5 = both uses, 10 = purely recreational"
+      }
+    ]
+  },
+  "Geological Features & Minerals": {
+    "description": "Properties for geological features and minerals",
+    "properties": [
+      {
+        "name": "size_scale",
+        "description": "Physical size",
+        "scale": "1 = microscopic/tiny mineral, 5 = small rock/crystal, 10 = massive geographic feature (mountain)"
+      },
+      {
+        "name": "hardness",
+        "description": "Physical hardness (Mohs scale related)",
+        "scale": "1 = very soft, 5 = moderate hardness, 10 = extremely hard (diamond)"
+      },
+      {
+        "name": "rarity",
+        "description": "How rare or common",
+        "scale": "1 = very common, 5 = moderately rare, 10 = extremely rare"
+      },
+      {
+        "name": "value",
+        "description": "Economic or monetary value",
+        "scale": "1 = low value, 5 = moderate value, 10 = very valuable (precious gems)"
+      },
+      {
+        "name": "color_variety",
+        "description": "Range of colors it can appear in",
+        "scale": "1 = single color only, 5 = few colors, 10 = many color varieties"
+      },
+      {
+        "name": "accessibility",
+        "description": "How easily accessed or visited",
+        "scale": "1 = very remote/inaccessible, 5 = moderately accessible, 10 = easily accessible"
+      },
+      {
+        "name": "formation_time",
+        "description": "Time required to form",
+        "scale": "1 = forms quickly (years), 5 = moderate time (thousands of years), 10 = very long (millions of years)"
+      },
+      {
+        "name": "commercial_use",
+        "description": "Level of commercial/industrial use",
+        "scale": "1 = no commercial use, 5 = some uses, 10 = major commercial/industrial use"
+      },
+      {
+        "name": "visual_appeal",
+        "description": "Aesthetic beauty",
+        "scale": "1 = plain/unremarkable, 5 = somewhat attractive, 10 = strikingly beautiful"
+      },
+      {
+        "name": "tourist_interest",
+        "description": "Appeal as tourist destination",
+        "scale": "1 = no tourist interest, 5 = moderate interest, 10 = major tourist attraction"
+      }
+    ]
+  },
+  "Natural Non-Geological Features": {
+    "description": "Properties for natural features that aren't primarily rock/mineral",
+    "properties": [
+      {
+        "name": "size_scale",
+        "description": "Physical size",
+        "scale": "1 = very small (pond), 5 = medium (lake), 10 = very large (ocean, major river)"
+      },
+      {
+        "name": "water_content",
+        "description": "Amount of water involved",
+        "scale": "1 = no water (desert), 5 = some water, 10 = primarily water (ocean, river)"
+      },
+      {
+        "name": "permanence",
+        "description": "How permanent vs temporary",
+        "scale": "1 = very temporary/seasonal, 5 = somewhat permanent, 10 = permanent feature"
+      },
+      {
+        "name": "biodiversity",
+        "description": "Richness of plant and animal life",
+        "scale": "1 = low biodiversity, 5 = moderate, 10 = very high biodiversity"
+      },
+      {
+        "name": "accessibility",
+        "description": "Ease of access for humans",
+        "scale": "1 = very remote/dangerous to access, 5 = moderately accessible, 10 = easily accessible"
+      },
+      {
+        "name": "climate_impact",
+        "description": "Influence on local/regional climate",
+        "scale": "1 = minimal climate impact, 5 = moderate impact, 10 = major climate influence"
+      },
+      {
+        "name": "human_use",
+        "description": "Level of human use/exploitation",
+        "scale": "1 = minimal human use, 5 = moderate use, 10 = heavily used by humans"
+      },
+      {
+        "name": "danger_level",
+        "description": "Potential danger to humans",
+        "scale": "1 = very safe, 5 = some hazards, 10 = very dangerous"
+      },
+      {
+        "name": "scenic_beauty",
+        "description": "Visual appeal and beauty",
+        "scale": "1 = plain/unremarkable, 5 = moderately scenic, 10 = breathtakingly beautiful"
+      },
+      {
+        "name": "tourist_popularity",
+        "description": "Appeal as tourist destination",
+        "scale": "1 = not a tourist spot, 5 = moderate tourism, 10 = major tourist destination"
+      }
+    ]
+  },
+  "Buildings & Large Structures": {
+    "description": "Properties for buildings and large man-made structures",
+    "properties": [
+      {
+        "name": "size_height",
+        "description": "Physical size and height",
+        "scale": "1 = small single-story, 5 = medium multi-story, 10 = skyscraper/massive structure"
+      },
+      {
+        "name": "age_historical",
+        "description": "Age and historical significance",
+        "scale": "1 = very new/modern, 5 = moderate age, 10 = ancient/historically significant"
+      },
+      {
+        "name": "architectural_beauty",
+        "description": "Aesthetic and architectural appeal",
+        "scale": "1 = plain/utilitarian, 5 = moderately attractive, 10 = architectural masterpiece"
+      },
+      {
+        "name": "functionality",
+        "description": "How specialized the function is",
+        "scale": "1 = single specialized use, 5 = moderate versatility, 10 = multi-purpose"
+      },
+      {
+        "name": "public_access",
+        "description": "Level of public access",
+        "scale": "1 = restricted/private, 5 = limited public access, 10 = fully open to public"
+      },
+      {
+        "name": "capacity",
+        "description": "Number of people it can hold",
+        "scale": "1 = very few people, 5 = moderate capacity, 10 = thousands of people"
+      },
+      {
+        "name": "construction_complexity",
+        "description": "Engineering difficulty to build",
+        "scale": "1 = simple construction, 5 = moderate complexity, 10 = engineering marvel"
+      },
+      {
+        "name": "maintenance_cost",
+        "description": "Cost and difficulty of maintenance",
+        "scale": "1 = low maintenance, 5 = moderate upkeep, 10 = very expensive to maintain"
+      },
+      {
+        "name": "fame_recognition",
+        "description": "How well-known/iconic",
+        "scale": "1 = unknown/generic, 5 = somewhat known, 10 = world-famous landmark"
+      },
+      {
+        "name": "modern_vs_traditional",
+        "description": "Design style modernity",
+        "scale": "1 = very traditional, 5 = mixed style, 10 = ultra-modern/contemporary"
+      }
+    ]
+  },
+  "Handheld Objects & Tools": {
+    "description": "Properties for objects that can be held in hands",
+    "properties": [
+      {
+        "name": "size",
+        "description": "Physical size",
+        "scale": "1 = pocket-sized, 5 = hand-sized, 10 = requires two hands/large"
+      },
+      {
+        "name": "weight",
+        "description": "Physical weight",
+        "scale": "1 = very light, 5 = moderate weight, 10 = heavy"
+      },
+      {
+        "name": "complexity",
+        "description": "Mechanical/design complexity",
+        "scale": "1 = very simple, 5 = moderate complexity, 10 = very complex mechanism"
+      },
+      {
+        "name": "durability",
+        "description": "How durable and long-lasting",
+        "scale": "1 = fragile/disposable, 5 = moderate durability, 10 = extremely durable"
+      },
+      {
+        "name": "everyday_use",
+        "description": "How commonly used in daily life",
+        "scale": "1 = rarely used/specialized, 5 = occasionally used, 10 = used daily"
+      },
+      {
+        "name": "power_requirement",
+        "description": "Power or energy needed",
+        "scale": "1 = no power needed (manual), 5 = batteries, 10 = plugged in/high power"
+      },
+      {
+        "name": "price",
+        "description": "Typical cost",
+        "scale": "1 = very cheap, 5 = moderate cost, 10 = expensive"
+      },
+      {
+        "name": "skill_required",
+        "description": "Skill level needed to use properly",
+        "scale": "1 = anyone can use, 5 = some skill needed, 10 = requires expertise"
+      },
+      {
+        "name": "portability",
+        "description": "Ease of carrying around",
+        "scale": "1 = bulky/hard to carry, 5 = moderate portability, 10 = very portable/pocket-sized"
+      },
+      {
+        "name": "safety_hazard",
+        "description": "Potential danger in use",
+        "scale": "1 = very safe, 5 = some caution needed, 10 = potentially dangerous"
+      }
+    ]
+  },
+  "Transportation Infrastructure": {
+    "description": "Properties for roads, bridges, and transportation-related infrastructure",
+    "properties": [
+      {
+        "name": "size_scale",
+        "description": "Physical size and scale",
+        "scale": "1 = small local structure, 5 = medium regional, 10 = massive national/international"
+      },
+      {
+        "name": "traffic_capacity",
+        "description": "Volume of traffic it can handle",
+        "scale": "1 = low capacity, 5 = moderate capacity, 10 = very high capacity"
+      },
+      {
+        "name": "construction_cost",
+        "description": "Expense to build",
+        "scale": "1 = relatively inexpensive, 5 = moderate cost, 10 = extremely expensive"
+      },
+      {
+        "name": "maintenance_burden",
+        "description": "Ongoing maintenance requirements",
+        "scale": "1 = low maintenance, 5 = moderate upkeep, 10 = high maintenance needs"
+      },
+      {
+        "name": "engineering_complexity",
+        "description": "Technical difficulty of construction",
+        "scale": "1 = simple construction, 5 = moderate complexity, 10 = engineering marvel"
+      },
+      {
+        "name": "strategic_importance",
+        "description": "Importance to regional/national transportation",
+        "scale": "1 = minor importance, 5 = moderately important, 10 = critically important"
+      },
+      {
+        "name": "age_typical",
+        "description": "Typical age of such infrastructure",
+        "scale": "1 = very new/modern type, 5 = moderate age, 10 = old/historic type"
+      },
+      {
+        "name": "specialization",
+        "description": "How specialized vs general purpose",
+        "scale": "1 = single purpose, 5 = moderate flexibility, 10 = multi-purpose use"
+      },
+      {
+        "name": "urban_vs_rural",
+        "description": "Typical location type",
+        "scale": "1 = primarily rural, 5 = suburban, 10 = primarily urban"
+      },
+      {
+        "name": "visibility_prominence",
+        "description": "How visible and prominent",
+        "scale": "1 = hidden/underground, 5 = somewhat visible, 10 = highly visible landmark"
+      }
+    ]
+  },
+  "Abstract Concepts, Places, People & Activities": {
+    "description": "Properties for abstract concepts, places, people, and activities",
+    "properties": [
+      {
+        "name": "tangibility",
+        "description": "How physical vs abstract",
+        "scale": "1 = purely abstract concept, 5 = somewhat tangible, 10 = physical place/person"
+      },
+      {
+        "name": "commonness",
+        "description": "How commonly encountered or known",
+        "scale": "1 = very rare/obscure, 5 = moderately known, 10 = universally known"
+      },
+      {
+        "name": "positive_negative",
+        "description": "Positive vs negative connotation",
+        "scale": "1 = very negative, 5 = neutral, 10 = very positive"
+      },
+      {
+        "name": "complexity",
+        "description": "How complex or simple the concept/activity",
+        "scale": "1 = very simple, 5 = moderate complexity, 10 = very complex"
+      },
+      {
+        "name": "active_passive",
+        "description": "Requires active participation vs passive",
+        "scale": "1 = purely passive, 5 = some activity, 10 = highly active participation"
+      },
+      {
+        "name": "social_aspect",
+        "description": "How social vs solitary",
+        "scale": "1 = purely solitary, 5 = can be either, 10 = highly social"
+      },
+      {
+        "name": "time_commitment",
+        "description": "Time required (for activities)",
+        "scale": "1 = minimal time, 5 = moderate time, 10 = major time commitment"
+      },
+      {
+        "name": "skill_knowledge",
+        "description": "Skill or knowledge level required",
+        "scale": "1 = no special skill needed, 5 = moderate skill, 10 = high expertise required"
+      },
+      {
+        "name": "cost_resources",
+        "description": "Financial cost or resources needed",
+        "scale": "1 = free/minimal cost, 5 = moderate cost, 10 = expensive/resource intensive"
+      },
+      {
+        "name": "cultural_specificity",
+        "description": "How universal vs culturally specific",
+        "scale": "1 = universal, 5 = somewhat cultural, 10 = very culturally specific"
+      }
+    ]
+  },
+  "other": {
+      "properties": [
+        {
+          "name": "Is Living",
+          "description": "How alive or biological the noun is (1=inanimate object, 10=living organism).",
+          "scale": "1 (inanimate) to 10 (living being)"
+        },
+        {
+          "name": "Is Human-Related",
+          "description": "How closely connected the noun is to humans, human activity, or society (1=not related, 10=directly human).",
+          "scale": "1 (not human-related) to 10 (human-centered)"
+        },
+        {
+          "name": "Is Technological",
+          "description": "Degree to which the noun represents technology, machinery, or electronic systems (1=natural, 10=advanced tech).",
+          "scale": "1 (natural) to 10 (high-tech)"
+        },
+        {
+          "name": "Is Edible/Food",
+          "description": "Whether the noun is something eaten or used as food (1=not food, 10=commonly eaten food).",
+          "scale": "1 (not edible) to 10 (food)"
+        },
+        {
+          "name": "Is Moveable/Portable",
+          "description": "How easily the noun can be physically moved or carried (1=fixed/immovable, 10=handheld or portable).",
+          "scale": "1 (immovable) to 10 (portable)"
+        },
+        {
+          "name": "Is Popular/Cultural",
+          "description": "How recognizable or culturally significant the noun is to the general public (1=obscure, 10=extremely famous).",
+          "scale": "1 (obscure) to 10 (widely known)"
+        },
+        {
+          "name": "Is Natural",
+          "description": "Degree of being naturally occurring versus man-made or artificial (1=man-made, 10=natural).",
+          "scale": "1 (artificial) to 10 (natural)"
+        },
+        {
+          "name": "Is Used for Work/Utility",
+          "description": "How often the noun is used for practical, work-related, or functional purposes (1=for fun or decoration, 10=for work).",
+          "scale": "1 (leisure) to 10 (work tool/profession)"
+        },
+        {
+          "name": "Is Associated with Motion/Action",
+          "description": "How much the noun involves or implies physical movement or activity (1=stationary, 10=highly active/action-based).",
+          "scale": "1 (stationary) to 10 (highly dynamic)"
+        },
+        {
+          "name": "Is Physical/Tangible",
+          "description": "How much the noun represents a concrete, touchable object versus an abstract concept or role (1=abstract idea, 10=physical object).",
+          "scale": "1 (abstract) to 10 (tangible)"
+        }
+      ]
+    }
+}
