@@ -1,0 +1,1028 @@
+noun,category,confidence
+aardvark,Wild Mammals,0.0
+acai,Fruits,0.0
+action figure,"Abstract Concepts, Places, People & Activities",0.0
+adobe,Buildings & Large Structures,0.0
+aerodactyl,Other Raw Foods,0.0
+air,Natural Non-Geological Features,0.0
+air start unit,Non-Motorized Transportation,0.0
+aircraft mechanic,Transportation Infrastructure,0.0
+alaskan malamute,Domesticated Mammals,0.0
+alligator,Reptiles & Amphibians,0.0
+ambulance,Transportation Infrastructure,0.0
+andesite,Geological Features & Minerals,0.0
+amazon,Fruits,0.0
+anaconda,Reptiles & Amphibians,0.0
+akamai technologies,Other Raw Foods,0.0
+alphabet,"Abstract Concepts, Places, People & Activities",0.0
+anorthosite,Geological Features & Minerals,0.0
+anteater,Wild Mammals,0.0
+antelope,Wild Mammals,0.0
+antenna,"Abstract Concepts, Places, People & Activities",0.0
+anthracite,Geological Features & Minerals,0.0
+anvil,Buildings & Large Structures,0.0
+apartment,Domesticated Mammals,0.0
+appearance,"Abstract Concepts, Places, People & Activities",0.0
+apple,Fruits,0.0
+apple pie,Prepared Foods & Meals,0.0
+apple tree,Trees,0.0
+applied materials,Handheld Objects & Tools,0.0
+arcade machine,Other Raw Foods,0.0
+arkansas,"Abstract Concepts, Places, People & Activities",0.0
+armadillo girdled lizard,Wild Mammals,0.0
+articuno,Reptiles & Amphibians,0.0
+artisan,Other Raw Foods,0.0
+astronomy,"Abstract Concepts, Places, People & Activities",0.0
+atmosphere,"Abstract Concepts, Places, People & Activities",0.0
+atoll,Natural Non-Geological Features,0.0
+australian shepherd,Domesticated Mammals,0.0
+autodesk,Handheld Objects & Tools,0.0
+avocado,Fruits,0.0
+avocado tree,Trees,0.0
+azalea,Non-Tree Plants,0.0
+baboon,Wild Mammals,0.0
+backpack,Handheld Objects & Tools,0.85
+bad-weather,"Abstract Concepts, Places, People & Activities",0.75
+badger,Wild Mammals,0.9
+backlands,Other Raw Foods,0.1
+badminton,"Abstract Concepts, Places, People & Activities",0.8
+bag,Handheld Objects & Tools,0.95
+bagel with cream,Prepared Foods & Meals,0.98
+baguette,Fruits,0.6
+banana plant,Non-Tree Plants,0.75
+band curl,Motorcycles,0.85
+balloon,"Abstract Concepts, Places, People & Activities",0.65
+bamboo,Non-Tree Plants,0.8
+banana,Fruits,1.0
+basket,Handheld Objects & Tools,0.8
+basketball,"Abstract Concepts, Places, People & Activities",0.7
+bathtub,Handheld Objects & Tools,0.85
+battery,Other Raw Foods,0.2
+battle rope waves,"Abstract Concepts, Places, People & Activities",0.1
+bauxite,Geological Features & Minerals,0.98
+bear crawls,Wild Mammals,0.85
+bearded dragon,Reptiles & Amphibians,0.92
+beaver,Domesticated Mammals,0.87
+bed,"Abstract Concepts, Places, People & Activities",0.93
+bedroom,"Abstract Concepts, Places, People & Activities",0.96
+bee,"Birds, Fish, Insects & Other Animals",0.98
+beedrill,Other Raw Foods,0.75
+beehive,"Abstract Concepts, Places, People & Activities",0.65
+bell,Transportation Infrastructure,0.98
+bench press,Handheld Objects & Tools,0.72
+bengal tiger,Wild Mammals,0.95
+bernese mountain dog,Domesticated Mammals,0.88
+beryl,Buildings & Large Structures,0.6
+bicycle,"Cars, Trucks, Boats & Other Motorized Vehicles",0.95
+bike,Motorcycles,0.88
+billy cunningham,Other Raw Foods,0.85
+binge,Prepared Foods & Meals,0.6
+binoculars,Transportation Infrastructure,0.94
+bird,"Birds, Fish, Insects & Other Animals",0.98
+bison,Wild Mammals,0.96
+black box,Transportation Infrastructure,0.85
+blackberry,Other Raw Foods,0.92
+blastoise,Non-Tree Plants,0.7
+blanket,"Abstract Concepts, Places, People & Activities",0.85
+blimp,Transportation Infrastructure,0.93
+blizzard,Natural Non-Geological Features,0.97
+block,"Abstract Concepts, Places, People & Activities",0.82
+bloodhound,Wild Mammals,0.94
+blue whale,Non-Tree Plants,0.85
+blue-tongued skink,Reptiles & Amphibians,0.93
+blueberry,Fruits,0.97
+blueberry bush,Other Raw Foods,0.85
+boar,Wild Mammals,0.92
+board,Handheld Objects & Tools,0.0
+boat,Transportation Infrastructure,0.0
+bob cousy,Other Raw Foods,0.0
+bob mcadoo,other,0.0
+boba tea,Fruits,0.0
+book,"Abstract Concepts, Places, People & Activities",0.0
+booking holdings,Other Raw Foods,0.0
+bookshelf,Handheld Objects & Tools,0.0
+boot,Domesticated Mammals,0.0
+border collie,Wild Mammals,0.0
+boston,"Abstract Concepts, Places, People & Activities",0.0
+bottle,Other Raw Foods,0.0
+bottle episode,other,0.0
+bottlecap,Handheld Objects & Tools,0.0
+boulder,Geological Features & Minerals,0.0
+bowl,Domesticated Mammals,0.0
+box,Buildings & Large Structures,0.0
+broadcast,"Abstract Concepts, Places, People & Activities",0.0
+broadcom,other,0.0
+brookesia micra,Other Raw Foods,0.0
+brush,Non-Tree Plants,0.0
+bucket,Handheld Objects & Tools,0.0
+buffalo,Wild Mammals,0.0
+building,Buildings & Large Structures,0.0
+bulbasaur,Other Raw Foods,0.0
+bulldog,Domesticated Mammals,0.0
+bulldozer,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+burger,Prepared Foods & Meals,0.0
+burj khalifa,Buildings & Large Structures,0.0
+burpee,other,0.0
+burpees,other,0.0
+burger,Prepared Foods & Meals,0.0
+bus,Transportation Infrastructure,0.0
+bush,Non-Tree Plants,0.0
+butte,Geological Features & Minerals,0.0
+butterfly,"Birds, Fish, Insects & Other Animals",0.0
+button,Handheld Objects & Tools,0.0
+cable bicep curls,Motorcycles,0.0
+cable crossover,Motorcycles,0.0
+cable lat pulldown,Motorcycles,0.0
+cable rows,Motorcycles,0.0
+cable tricep pushdowns,Handheld Objects & Tools,0.0
+cactus,"Birds, Fish, Insects & Other Animals",0.0
+caesar salad,Prepared Foods & Meals,0.0
+calcite,Geological Features & Minerals,0.0
+calculator,Handheld Objects & Tools,0.0
+calendar,"Abstract Concepts, Places, People & Activities",0.0
+car,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+car tire,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+carabiner,Handheld Objects & Tools,0.0
+carnelian,Other Raw Foods,0.0
+carpenter,Buildings & Large Structures,0.0
+camel,Wild Mammals,0.0
+catamaran,Transportation Infrastructure,0.0
+caterpie,other,0.0
+cattail,Wild Mammals,0.0
+cbr1000rr,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+cbr600rr,Motorcycles,0.0
+cedar tree,Trees,0.0
+ceiling,Buildings & Large Structures,0.0
+ceiling fan,Handheld Objects & Tools,0.0
+central netted dragon,Other Raw Foods,0.0
+cereal with milk,Prepared Foods & Meals,0.0
+chai,Fruits,0.0
+chain,Handheld Objects & Tools,0.0
+chair,Buildings & Large Structures,0.0
+chalcedony,Geological Features & Minerals,0.0
+chameleon,"Birds, Fish, Insects & Other Animals",0.0
+charizard,Other Raw Foods,0.0
+charmander,"Abstract Concepts, Places, People & Activities",0.0
+cheese,Fruits,0.0
+cherry,Non-Tree Plants,0.0
+cherry blossom tree,Trees,0.0
+chert,Geological Features & Minerals,0.0
+chess,"Abstract Concepts, Places, People & Activities",0.0
+chest press,Handheld Objects & Tools,0.0
+chicken,Fruits,0.0
+chicken curry,Prepared Foods & Meals,0.0
+chihuahua,Domesticated Mammals,0.0
+chimpanzee,Wild Mammals,0.0
+chipmunk,Non-Tree Plants,0.0
+chocolate,Other Raw Foods,0.0
+chocolate bar,Prepared Foods & Meals,0.0
+chocolate cake,Fruits,0.0
+chow chow,Domesticated Mammals,0.0
+christ the redeemer,"Abstract Concepts, Places, People & Activities",0.0
+cider apple,Fruits,0.0
+clean,"Abstract Concepts, Places, People & Activities",0.0
+climate,Natural Non-Geological Features,0.0
+clock,"Abstract Concepts, Places, People & Activities",0.0
+cloud,Natural Non-Geological Features,0.0
+cognizant,"Abstract Concepts, Places, People & Activities",0.0
+coin,Fruits,0.0
+coin purse,Handheld Objects & Tools,0.0
+collie,Domesticated Mammals,0.0
+colosseum,Buildings & Large Structures,0.0
+common agama,Wild Mammals,0.0
+common basilisk,Reptiles & Amphibians,0.0
+compass,Handheld Objects & Tools,0.0
+control tower,Transportation Infrastructure,0.0
+computer,"Abstract Concepts, Places, People & Activities",0.0
+conglomerate,Geological Features & Minerals,0.0
+cord,Handheld Objects & Tools,0.0
+corn,Fruits,0.0
+cottage cheese,Prepared Foods & Meals,0.0
+cotton shirt,Non-Tree Plants,0.0
+couch,"Abstract Concepts, Places, People & Activities",0.0
+cougar,Wild Mammals,0.0
+cow,Domesticated Mammals,0.0
+coyote,Wild Mammals,0.0
+crab,Other Raw Foods,0.0
+cracker,Prepared Foods & Meals,0.0
+cranberry,Fruits,0.0
+credits,"Abstract Concepts, Places, People & Activities",0.0
+crested gecko,Reptiles & Amphibians,0.0
+cricket,"Birds, Fish, Insects & Other Animals",0.0
+crocodile,Wild Mammals,0.0
+croissant,Prepared Foods & Meals,0.0
+crossover,Other Raw Foods,0.0
+Crowdstrike,"Abstract Concepts, Places, People & Activities",0.0
+crunch,Handheld Objects & Tools,0.0
+crystal,Geological Features & Minerals,0.0
+cub,Wild Mammals,0.0
+cup of coffee,Prepared Foods & Meals,0.0
+cupcake,Prepared Foods & Meals,0.0
+curb,"Abstract Concepts, Places, People & Activities",0.0
+currant,Fruits,0.0
+cycling,Non-Motorized Transportation,0.0
+dam,Buildings & Large Structures,0.0
+darwin,"Abstract Concepts, Places, People & Activities",0.0
+dandelion,Non-Tree Plants,0.0
+de-icing truck,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+deep freezer,Handheld Objects & Tools,0.0
+dave bing,Other Raw Foods,0.0
+day gecko,Reptiles & Amphibians,0.0
+daytona675,Motorcycles,0.0
+delta,Geological Features & Minerals,0.0
+desert,Natural Non-Geological Features,0.0
+deer,Wild Mammals,0.0
+desertx,Trees,0.0
+desk,Buildings & Large Structures,0.0
+desk lamp,Handheld Objects & Tools,0.0
+dishwener,Other Raw Foods,0.0
+district of columbia,Transportation Infrastructure,0.0
+doberman pinscher,Domesticated Mammals,0.0
+dog,Wild Mammals,0.0
+dip station exercises,Handheld Objects & Tools,0.0
+dirk nowitzki,Motorcycles,0.0
+dirt,Natural Non-Geological Features,0.0
+disaster,"Abstract Concepts, Places, People & Activities",0.0
+diamond,Non-Tree Plants,0.0
+diavel,Other Raw Foods,0.0
+difference,"Abstract Concepts, Places, People & Activities",0.0
+dinghy,Motorcycles,0.0
+diorite,Geological Features & Minerals,0.0
+dirk nowitzki,Motorcycles,0.0
+documentary,"Abstract Concepts, Places, People & Activities",0.0
+dog,Wild Mammals,0.0
+dolph schayes,other,0.0
+dolphin,"Birds, Fish, Insects & Other Animals",0.0
+donkey,Domesticated Mammals,0.0
+donut,Prepared Foods & Meals,0.0
+dolomite,Geological Features & Minerals,0.0
+door,Buildings & Large Structures,0.0
+doordash,other,0.0
+doorknob,Handheld Objects & Tools,0.0
+dragonair,Motorcycles,0.0
+dragonfruit,Fruits,0.0
+drum,Natural Non-Geological Features,0.0
+drink,other,0.0
+dumbbell thruster,Handheld Objects & Tools,1.0
+dumbbell tricep kickbacks,Handheld Objects & Tools,1.0
+dumpling,Prepared Foods & Meals,0.95
+dune,Natural Non-Geological Features,0.85
+eagle,Wild Mammals,0.97
+earth,"Abstract Concepts, Places, People & Activities",1.0
+eiffel tower,Buildings & Large Structures,1.0
+electric car,"Cars, Trucks, Boats & Other Motorized Vehicles",1.0
+english springer spaniel,Domesticated Mammals,0.97
+fan,Handheld Objects & Tools,0.9
+faucet,Handheld Objects & Tools,0.0
+fearow,"Abstract Concepts, Places, People & Activities",0.0
+fencing,Buildings & Large Structures,0.0
+ferret,Wild Mammals,0.0
+fig,Fruits,0.0
+fight jet,Aircraft,0.0
+firewood,Other Raw Foods,0.0
+first aid kit,Handheld Objects & Tools,0.0
+first officer,Transportation Infrastructure,0.0
+fiserv,other,0.0
+fish,"Birds, Fish, Insects & Other Animals",0.0
+fish and chips,Prepared Foods & Meals,0.0
+fishnet,"Birds, Fish, Insects & Other Animals",0.0
+five-lined skink,Reptiles & Amphibians,0.0
+fjord,Natural Non-Geological Features,0.0
+flag,Other Raw Foods,0.0
+flamingo,"Birds, Fish, Insects & Other Animals",0.0
+flashback,other,0.0
+flashlight,Handheld Objects & Tools,0.0
+flight attendant,Transportation Infrastructure,0.0
+flight deck,Transportation Infrastructure,0.0
+flight engineer,Transportation Infrastructure,0.0
+flight simulator,other,0.0
+floor,Buildings & Large Structures,0.0
+flower,Non-Tree Plants,0.0
+fluorite,Geological Features & Minerals,0.0
+fog,Natural Non-Geological Features,0.0
+foot,Handheld Objects & Tools,0.0
+forest,Trees,0.0
+fork,Handheld Objects & Tools,0.0
+fort worth,Transportation Infrastructure,0.0
+fossil,Geological Features & Minerals,0.0
+fox,Wild Mammals,0.0
+frame,Buildings & Large Structures,0.0
+freedom,"Abstract Concepts, Places, People & Activities",0.0
+freighter,Aircraft,0.0
+fridge,Handheld Objects & Tools,0.0
+frilled-neck lizard,"Birds, Fish, Insects & Other Animals",0.0
+frog,Reptiles & Amphibians,0.0
+funicular,Transportation Infrastructure,0.0
+fuselage,Aircraft,0.0
+game,"Abstract Concepts, Places, People & Activities",0.0
+garbage,"Abstract Concepts, Places, People & Activities",0.0
+gargoyle gecko,"Birds, Fish, Insects & Other Animals",0.0
+garnet,Geological Features & Minerals,0.0
+gas can,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+gazelle,Wild Mammals,0.0
+genealogy,"Abstract Concepts, Places, People & Activities",0.0
+generator,Handheld Objects & Tools,0.0
+genre,"Abstract Concepts, Places, People & Activities",0.0
+gerbil,Domesticated Mammals,0.0
+geyser,Geological Features & Minerals,0.0
+gila monster,"Birds, Fish, Insects & Other Animals",0.0
+giraffe,Wild Mammals,0.0
+glass lizard,"Birds, Fish, Insects & Other Animals",0.0
+glass vase,Buildings & Large Structures,0.0
+globe,"Abstract Concepts, Places, People & Activities",0.0
+glove,Handheld Objects & Tools,0.0
+gloves,Handheld Objects & Tools,0.0
+glute bridge,Transportation Infrastructure,0.0
+glute bridges,Transportation Infrastructure,0.0
+gneiss,Geological Features & Minerals,0.0
+goat,Domesticated Mammals,0.0
+gold bar,Other Raw Foods,0.0
+gold ring,Prepared Foods & Meals,0.0
+goldfish,Wild Mammals,0.0
+golf,"Abstract Concepts, Places, People & Activities",0.0
+golf cart,Transportation Infrastructure,0.0
+gondola,Transportation Infrastructure,0.0
+good morning,"Abstract Concepts, Places, People & Activities",0.0
+goose,"Birds, Fish, Insects & Other Animals",1.0
+gooseberry,Fruits,0.0
+gorilla,Wild Mammals,0.0
+grain,Fruits,0.0
+grand canyon,Geological Features & Minerals,0.0
+granite,Geological Features & Minerals,1.0
+grapes,Fruits,0.0
+grass,Non-Tree Plants,0.0
+grassland,Natural Non-Geological Features,0.0
+great barrier reef,Natural Non-Geological Features,0.0
+great pyrenees,Wild Mammals,0.0
+great wall,Transportation Infrastructure,0.0
+green basilisk,Reptiles & Amphibians,0.0
+green iguana,Reptiles & Amphibians,0.0
+green salad,Prepared Foods & Meals,1.0
+greywacke,Geological Features & Minerals,0.0
+grilled salmon,Prepared Foods & Meals,1.0
+grizzly bear,Wild Mammals,0.0
+ground power unit,Transportation Infrastructure,0.0
+gsxr1000,Aircraft,0.0
+gsxr600,Aircraft,0.0
+gsxr750,Aircraft,0.0
+guava,Fruits,0.0
+guest star,"Abstract Concepts, Places, People & Activities",0.0
+guinea pig,Domesticated Mammals,0.0
+gymnastics,"Abstract Concepts, Places, People & Activities",0.0
+gypsum,Geological Features & Minerals,0.0
+h2r,Other Raw Foods,0.0
+hammer,Handheld Objects & Tools,0.0
+hammock,Non-Tree Plants,0.0
+hamster,Domesticated Mammals,0.0
+hand saw,Handheld Objects & Tools,0.0
+hang glider,Motorcycles,0.0
+hangar,Transportation Infrastructure,0.0
+hare,Wild Mammals,0.0
+hat,"Abstract Concepts, Places, People & Activities",0.0
+hawk,Wild Mammals,0.0
+hayabusa,Motorcycles,0.0
+headphones,"Abstract Concepts, Places, People & Activities",0.0
+heatwave,Natural Non-Geological Features,0.0
+hedgehog,Wild Mammals,0.0
+height,"Abstract Concepts, Places, People & Activities",0.0
+helicopter,Aircraft,0.0
+helipad,Transportation Infrastructure,0.0
+helmet,Handheld Objects & Tools,0.0
+highway,Transportation Infrastructure,0.0
+hip circles,"Abstract Concepts, Places, People & Activities",0.0
+hippopotamus,Wild Mammals,0.0
+hollow hold,Other Raw Foods,0.0
+hook,"Abstract Concepts, Places, People & Activities",0.0
+horchata,Prepared Foods & Meals,0.0
+horned lizard,"Birds, Fish, Insects & Other Animals",0.0
+horse,Wild Mammals,0.0
+hot air balloon,Aircraft,0.0
+hot dog,Prepared Foods & Meals,0.0
+hot spring,Natural Non-Geological Features,0.0
+hot-air balloon,Aircraft,0.0
+hoverboard,Motorcycles,0.0
+howlite,Other Raw Foods,0.0
+hummus,Prepared Foods & Meals,0.0
+hurricane,"Abstract Concepts, Places, People & Activities",0.0
+hybrid car,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+hydrangea,Trees,0.0
+hydrometeor,Natural Non-Geological Features,0.0
+ice,"Birds, Fish, Insects & Other Animals",0.0
+ice axe,Handheld Objects & Tools,0.0
+ice cream,Prepared Foods & Meals,0.0
+ice cube,Other Raw Foods,0.0
+ice hockey,Transportation Infrastructure,0.0
+ice pop,Prepared Foods & Meals,0.0
+idaho,Geological Features & Minerals,0.0
+idea,"Abstract Concepts, Places, People & Activities",0.0
+iguana,"Birds, Fish, Insects & Other Animals",0.0
+importance,"Abstract Concepts, Places, People & Activities",0.0
+indiana,Geological Features & Minerals,0.0
+ink,Handheld Objects & Tools,0.0
+insect,"Birds, Fish, Insects & Other Animals",0.0
+iolite,Other Raw Foods,0.0
+ivysaur,Wild Mammals,0.0
+jackfruit,Fruits,0.0
+jaguar,Wild Mammals,0.0
+kabuto,Buildings & Large Structures,0.0
+kangaroo,Wild Mammals,0.0
+kawhi leonard,Aircraft,0.0
+keyboard,Handheld Objects & Tools,0.0
+key,Handheld Objects & Tools,0.0
+kayak,Aircraft,0.0
+kite,"Abstract Concepts, Places, People & Activities",0.0
+kitty,Wild Mammals,0.0
+kiwi,Fruits,0.0
+knife,Handheld Objects & Tools,0.0
+knitting,Handheld Objects & Tools,0.0
+knob,Handheld Objects & Tools,0.0
+koala,Wild Mammals,0.0
+komatiite,Geological Features & Minerals,0.0
+kombucha,Prepared Foods & Meals,0.0
+komodo dragon,Wild Mammals,0.0
+kyanite,Geological Features & Minerals,0.0
+labradorite,"Abstract Concepts, Places, People & Activities",0.0
+lace monitor,Reptiles & Amphibians,0.0
+lacrosse,"Abstract Concepts, Places, People & Activities",0.0
+ladder,Handheld Objects & Tools,0.0
+lagoon,Natural Non-Geological Features,0.0
+lake,Natural Non-Geological Features,0.0
+lam research,"Abstract Concepts, Places, People & Activities",0.95
+lamp,Handheld Objects & Tools,0.0
+landing gear,Transportation Infrastructure,0.0
+lantern,Handheld Objects & Tools,0.0
+lapis lazuli,Geological Features & Minerals,0.0
+laptop,Handheld Objects & Tools,0.0
+laptop charger,Handheld Objects & Tools,0.0
+larry bird,"Birds, Fish, Insects & Other Animals",1.0
+lasagna,Prepared Foods & Meals,0.0
+lat pulldown,Handheld Objects & Tools,0.0
+lat pulldown machine,Handheld Objects & Tools,0.0
+laterite,Geological Features & Minerals,0.0
+leaf,Non-Tree Plants,0.0
+leg curl,Handheld Objects & Tools,0.0
+leg curl machine,Handheld Objects & Tools,0.0
+leg extension machine,Handheld Objects & Tools,0.0
+leg press,Handheld Objects & Tools,0.0
+lemon,Fruits,0.0
+lemur,Wild Mammals,0.0
+lens,Handheld Objects & Tools,0.0
+letter,"Abstract Concepts, Places, People & Activities",0.0
+light bulb,Handheld Objects & Tools,0.0
+lighthouse,Transportation Infrastructure,0.0
+lilac,Non-Tree Plants,0.0
+lime,Fruits,0.0
+limestone,Geological Features & Minerals,0.0
+limousine,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+lion,Wild Mammals,0.0
+literature,"Abstract Concepts, Places, People & Activities",0.0
+lizard,"Birds, Fish, Insects & Other Animals",0.0
+llama,Domesticated Mammals,0.0
+lobster tail,Other Raw Foods,0.0
+lock,Handheld Objects & Tools,0.0
+lollipop,Prepared Foods & Meals,0.0
+lunge,Non-Tree Plants,0.0
+lychee,Fruits,0.0
+mac & cheese,Prepared Foods & Meals,0.0
+machu picchu,Buildings & Large Structures,0.0
+magic,"Abstract Concepts, Places, People & Activities",0.0
+magic wand,Prepared Foods & Meals,0.0
+magmar,Wild Mammals,0.0
+magnet,Handheld Objects & Tools,0.0
+magnetite,Geological Features & Minerals,0.0
+magnolia,Non-Tree Plants,0.0
+malachite,Geological Features & Minerals,0.0
+map,Trees,0.0
+maple,Trees,0.0
+maple tree,Trees,0.0
+marble,Buildings & Large Structures,0.0
+marigold,Non-Tree Plants,0.0
+marine iguana,Reptiles & Amphibians,0.0
+marsh,Natural Non-Geological Features,0.0
+mask,"Abstract Concepts, Places, People & Activities",0.0
+match group,Other Raw Foods,0.0
+matcha,Fruits,0.0
+meditation,"Abstract Concepts, Places, People & Activities",0.0
+medicine ball russian twists,Handheld Objects & Tools,0.0
+medicine ball slams,Handheld Objects & Tools,0.0
+meadow,Natural Non-Geological Features,0.0
+meal,Prepared Foods & Meals,0.0
+mechanic,"Abstract Concepts, Places, People & Activities",0.0
+metapod,Other Raw Foods,0.0
+meteor,Motorcycles,0.0
+mew,Wild Mammals,0.0
+mewtwo,Reptiles & Amphibians,0.0
+mexican beaded lizard,"Birds, Fish, Insects & Other Animals",0.0
+microscope,Handheld Objects & Tools,0.0
+microphone,"Abstract Concepts, Places, People & Activities",0.0
+miniature schnauzer,Domesticated Mammals,0.0
+minivan,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+mirror,"Abstract Concepts, Places, People & Activities",0.0
+missouri,Transportation Infrastructure,0.0
+mixer,Handheld Objects & Tools,0.0
+mizzle,"Abstract Concepts, Places, People & Activities",0.0
+mobile phone,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+mojito,Prepared Foods & Meals,0.0
+moldavite,Geological Features & Minerals,0.0
+montres,Other Raw Foods,0.0
+money,"Abstract Concepts, Places, People & Activities",0.0
+monkey,Wild Mammals,0.0
+monorail,Transportation Infrastructure,0.0
+monsoon,Natural Non-Geological Features,0.0
+monster1200,Other Raw Foods,0.0
+monster821,"Abstract Concepts, Places, People & Activities",0.0
+montage,other,0.0
+montana,Trees,0.0
+moon,Other Raw Foods,0.0
+moonstone,Geological Features & Minerals,0.0
+moose,Wild Mammals,0.0
+mop,Handheld Objects & Tools,0.0
+multistrada,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+mulberry,Fruits,0.0
+mule,Domesticated Mammals,0.0
+motorcycle,Motorcycles,0.0
+mount everest,Transportation Infrastructure,0.0
+mount kilimanjaro,Trees,0.0
+mountain biking,Non-Tree Plants,0.0
+mountain climber,Wild Mammals,0.0
+mountain range,Trees,0.0
+mourning gecko,Reptiles & Amphibians,0.0
+mouse,Wild Mammals,0.0
+mousepad,Handheld Objects & Tools,0.0
+mt07,other,0.0
+mt09,other,0.0
+mudstone,Geological Features & Minerals,0.0
+mug,Handheld Objects & Tools,0.0
+mulberry,Fruits,0.0
+multistrada,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+narwhal,"Birds, Fish, Insects & Other Animals",0.0
+nectarine,Fruits,0.0
+needle,Handheld Objects & Tools,0.0
+nest,"Abstract Concepts, Places, People & Activities",0.0
+netflix,Prepared Foods & Meals,0.0
+nettle,Non-Tree Plants,0.0
+network,Transportation Infrastructure,0.0
+niagara falls,Natural Non-Geological Features,0.0
+nile monitor,"Birds, Fish, Insects & Other Animals",0.0
+ninja400,Motorcycles,0.0
+ninja650,Motorcycles,0.0
+north carolina,Wild Mammals,0.0
+northern mariana islands,Transportation Infrastructure,0.0
+notebook,Handheld Objects & Tools,0.0
+nvidia,Motorcycles,0.0
+oak,Trees,0.0
+oak tree,Trees,0.0
+oasis,"Abstract Concepts, Places, People & Activities",0.0
+oatmeal,Other Raw Foods,0.0
+obsidian,Geological Features & Minerals,0.0
+ocean,Natural Non-Geological Features,0.0
+ocelot,Wild Mammals,0.0
+octopus,"Birds, Fish, Insects & Other Animals",0.0
+office,"Abstract Concepts, Places, People & Activities",0.0
+oil,Geological Features & Minerals,0.0
+oklahoma city,Transportation Infrastructure,0.0
+olive,Fruits,0.0
+olive tree,Trees,0.0
+omaha,Other Raw Foods,0.0
+omanyte,"Abstract Concepts, Places, People & Activities",0.0
+onyx,Geological Features & Minerals,0.0
+opal,"Birds, Fish, Insects & Other Animals",0.0
+oracle,"Abstract Concepts, Places, People & Activities",0.0
+orangutan,Wild Mammals,0.0
+orchid,Non-Tree Plants,0.0
+origami,Handheld Objects & Tools,0.0
+oregon,"Abstract Concepts, Places, People & Activities",0.0
+ostrich,Wild Mammals,0.0
+oven,Handheld Objects & Tools,0.0
+ozone,Geological Features & Minerals,0.0
+paddleboard,Non-Tree Plants,0.0
+paella,Prepared Foods & Meals,0.0
+pan,Handheld Objects & Tools,0.0
+pancake,Prepared Foods & Meals,0.0
+pancakes,Prepared Foods & Meals,0.0
+panda,Wild Mammals,0.0
+panigalev2,Motorcycles,0.0
+panigalev4,Motorcycles,0.0
+pansy,Non-Tree Plants,0.0
+pants,Handheld Objects & Tools,0.0
+papaya,Fruits,0.0
+paper,"Abstract Concepts, Places, People & Activities",0.0
+paper clip,Handheld Objects & Tools,0.0
+paraglider,Transportation Infrastructure,0.0
+park,Non-Tree Plants,0.0
+passionfruit,Fruits,0.0
+pasta,Prepared Foods & Meals,0.0
+paypal,other,0.0
+pec deck,other,0.0
+petra,other,0.0
+phone,other,0.0
+picture frame,other,0.0
+pikachu,other,0.0
+pizza,Prepared Foods & Meals,0.0
+pizza slice,Prepared Foods & Meals,0.0
+plane,Aircraft,0.0
+planet,"Abstract Concepts, Places, People & Activities",0.95
+plank,Handheld Objects & Tools,0.0
+plant,Trees,0.0
+plastic,Handheld Objects & Tools,0.0
+plate,Prepared Foods & Meals,0.0
+plateau,Geological Features & Minerals,0.0
+platypus,Wild Mammals,0.0
+playground,"Abstract Concepts, Places, People & Activities",0.0
+plot twist,"Abstract Concepts, Places, People & Activities",0.0
+plum,Fruits,0.0
+pneumatic nail gun,Handheld Objects & Tools,0.0
+podcasting,"Abstract Concepts, Places, People & Activities",0.0
+poet,"Abstract Concepts, Places, People & Activities",1.0
+polar bear,Wild Mammals,0.0
+police car,Transportation Infrastructure,0.0
+pomegranate,Fruits,0.0
+pomeranian,Domesticated Mammals,0.0
+popcorn,Prepared Foods & Meals,0.0
+porcupine,Wild Mammals,0.0
+potato,Fruits,0.0
+potion bottle,Handheld Objects & Tools,0.0
+pottery,Handheld Objects & Tools,0.0
+prairie,Natural Non-Geological Features,0.0
+prediction,"Abstract Concepts, Places, People & Activities",0.95
+pressure washer,Handheld Objects & Tools,0.0
+printer,Handheld Objects & Tools,0.0
+private jet,Transportation Infrastructure,0.0
+problem,"Abstract Concepts, Places, People & Activities",0.0
+procedure,"Abstract Concepts, Places, People & Activities",0.0
+prop,Handheld Objects & Tools,0.0
+propeller,Aircraft,0.0
+protein shake,Prepared Foods & Meals,0.0
+puerto rico,"Abstract Concepts, Places, People & Activities",0.0
+puffin,"Birds, Fish, Insects & Other Animals",1.0
+pull-up bar exercises,Handheld Objects & Tools,0.0
+pumice,Geological Features & Minerals,0.0
+pushback tug,Transportation Infrastructure,0.0
+puzzles,"Abstract Concepts, Places, People & Activities",0.0
+pyramids,Buildings & Large Structures,0.0
+pyramids of giza,Buildings & Large Structures,0.0
+pyrite,Geological Features & Minerals,0.0
+quail,"Abstract Concepts, Places, People & Activities",0.0
+quality,Other Raw Foods,0.0
+quartz,"Birds, Fish, Insects & Other Animals",0.0
+quartzite,Buildings & Large Structures,0.0
+r1,Motorcycles,0.0
+r6,Other Raw Foods,0.0
+rabbit,Wild Mammals,0.0
+raccoon,Wild Mammals,0.0
+radio,Transportation Infrastructure,0.0
+radish,Fruits,0.0
+raft,Non-Motorized Transportation,0.0
+rain,Natural Non-Geological Features,0.0
+rainbow,"Abstract Concepts, Places, People & Activities",0.0
+raincloud,Natural Non-Geological Features,0.0
+raincoat,Other Raw Foods,0.0
+raindrift,other,0.0
+rainfall,Non-Motorized Transportation,0.0
+rainforest,Trees,0.0
+ramen bowl,Prepared Foods & Meals,0.0
+ramp agent,other,0.0
+raspberry,Fruits,0.0
+rat,Domesticated Mammals,0.0
+raticate,Other Raw Foods,0.0
+rating,Prepared Foods & Meals,0.0
+reality show,"Abstract Concepts, Places, People & Activities",0.0
+recap,other,0.0
+red fox,Wild Mammals,0.0
+refrigerator,Domesticated Mammals,0.0
+reggie miller,other,0.0
+reindeer,Wild Mammals,0.0
+remote,Transportation Infrastructure,0.0
+replacement,other,0.0
+reporter,"Abstract Concepts, Places, People & Activities",0.0
+rerun,"Abstract Concepts, Places, People & Activities",0.0
+reservoir,Geological Features & Minerals,0.0
+resistance band chest press,Handheld Objects & Tools,0.0
+resistance band rows,Motorcycles,0.0
+resistance band squats,Handheld Objects & Tools,0.0
+restaurant,Prepared Foods & Meals,0.0
+revenue,"Abstract Concepts, Places, People & Activities",0.0
+revolution,"Abstract Concepts, Places, People & Activities",0.0
+rhinoceros,Wild Mammals,0.0
+rhyolite,Geological Features & Minerals,0.0
+rice,Fruits,0.0
+rickshaw,Transportation Infrastructure,0.0
+ridge,Buildings & Large Structures,0.0
+ring,"Abstract Concepts, Places, People & Activities",0.0
+river,Natural Non-Geological Features,0.0
+riverbank,Natural Non-Geological Features,0.0
+road,Transportation Infrastructure,0.0
+roast beef,Prepared Foods & Meals,0.0
+roast turkey,Prepared Foods & Meals,0.0
+roast vegetables,Prepared Foods & Meals,0.0
+robin,Wild Mammals,0.0
+robot,Motorcycles,0.0
+rock,Buildings & Large Structures,0.0
+rock agama,Other Raw Foods,0.0
+rocket,Transportation Infrastructure,0.0
+rocking chair,Handheld Objects & Tools,0.0
+romanian deadlift,Motorcycles,0.0
+rope,Handheld Objects & Tools,0.0
+rose,Non-Tree Plants,0.0
+rose bush,Non-Tree Plants,0.0
+rottweiler,Domesticated Mammals,0.0
+rowing,Transportation Infrastructure,0.0
+rowing machine pulls,Handheld Objects & Tools,0.0
+rug,Non-Tree Plants,0.0
+rugby league,Transportation Infrastructure,0.0
+rugby union,Transportation Infrastructure,0.0
+ruler,Handheld Objects & Tools,0.98
+rum punch,Prepared Foods & Meals,0.95
+runway,Transportation Infrastructure,0.85
+rv,"Cars, Trucks, Boats & Other Motorized Vehicles",0.92
+s1000r,Other Raw Foods,0.87
+s1000rr,Motorcycles,0.93
+safe,"Abstract Concepts, Places, People & Activities",0.88
+sagebrush,Non-Tree Plants,0.94
+sahara,Natural Non-Geological Features,0.97
+sahara desert,"Birds, Fish, Insects & Other Animals",0.82
+sailboat,"Cars, Trucks, Boats & Other Motorized Vehicles",0.91
+sailing,Non-Motorized Transportation,0.88
+saint bernard,Wild Mammals,0.95
+sake,Prepared Foods & Meals,0.96
+salad,Fruits,0.98
+salak,Other Raw Foods,0.93
+salamander,"Birds, Fish, Insects & Other Animals",0.96
+salmon,Fruits,0.97
+salt flat,Geological Features & Minerals,0.98
+samosa,Fruits,0.87
+samoyed,Other Raw Foods,0.92
+sand,Non-Tree Plants,0.97
+sand lizard,"Birds, Fish, Insects & Other Animals",0.96
+sandbag cleans,Other Raw Foods,0.85
+sandstone,Buildings & Large Structures,0.93
+sandwich,Fruits,0.94
+sapphire,Other Raw Foods,0.87
+satanic leaf-tailed gecko,"Birds, Fish, Insects & Other Animals",0.95
+satellite,Transportation Infrastructure,0.98
+savanna,Natural Non-Geological Features,0.96
+savannah monitor,Reptiles & Amphibians,0.94
+saw,Handheld Objects & Tools,0.95
+scarf,Non-Tree Plants,0.96
+schist,Buildings & Large Structures,0.92
+school bus,Transportation Infrastructure,0.97
+scissors,Handheld Objects & Tools,0.98
+scooter,Motorcycles,0.0
+scoria,Geological Features & Minerals,0.0
+scrambler,Transportation Infrastructure,0.0
+scrapbooking,Handheld Objects & Tools,0.0
+script,"Abstract Concepts, Places, People & Activities",0.0
+scyther,Other Raw Foods,0.0
+sea lion,Wild Mammals,0.0
+sea turtle,"Birds, Fish, Insects & Other Animals",0.0
+seal,Wild Mammals,0.0
+seaplane,Transportation Infrastructure,0.0
+season,"Abstract Concepts, Places, People & Activities",0.0
+seated row,Non-Tree Plants,0.0
+seated row machine,Motorcycles,0.0
+sector,"Abstract Concepts, Places, People & Activities",0.0
+segway,Transportation Infrastructure,0.0
+sequoia,Trees,0.0
+series finale,Other Raw Foods,0.0
+serpentine,Geological Features & Minerals,0.0
+servicenow,"Abstract Concepts, Places, People & Activities",0.0
+set,Prepared Foods & Meals,0.0
+shark,"Birds, Fish, Insects & Other Animals",0.0
+sheep,Domesticated Mammals,0.0
+shelf,Handheld Objects & Tools,0.0
+shell,Other Raw Foods,0.0
+shiba inu,Domesticated Mammals,0.0
+ship,Transportation Infrastructure,0.0
+shirt,Other Raw Foods,0.0
+shoe,Handheld Objects & Tools,0.0
+shoes,Motorcycles,0.0
+shoulder press machine,Handheld Objects & Tools,0.0
+shrimp cocktail,Prepared Foods & Meals,0.0
+shrub,Other Raw Foods,0.0
+siberian husky,Domesticated Mammals,0.0
+silence,"Abstract Concepts, Places, People & Activities",0.0
+siltstone,Geological Features & Minerals,0.0
+singing,"Abstract Concepts, Places, People & Activities",1.0
+single-leg romanian deadlifts,Handheld Objects & Tools,0.0
+sink,Handheld Objects & Tools,0.0
+sitcom,"Abstract Concepts, Places, People & Activities",0.0
+skate park,Transportation Infrastructure,0.0
+skateboard,Motorcycles,0.0
+skateboarding,Non-Motorized Transportation,0.0
+skiing,Non-Motorized Transportation,0.0
+skill saw,Handheld Objects & Tools,0.0
+skirt,Non-Tree Plants,0.0
+skunk,Wild Mammals,0.0
+skyscraper,Buildings & Large Structures,0.0
+slate,Buildings & Large Structures,0.0
+sled,Transportation Infrastructure,0.0
+sleeping bag,Handheld Objects & Tools,0.0
+sloth,Wild Mammals,0.0
+slow worm,Wild Mammals,0.0
+smartphone,Handheld Objects & Tools,0.0
+smartwatch,Handheld Objects & Tools,0.0
+smith machine bench press,Handheld Objects & Tools,0.0
+smith machine squat,Handheld Objects & Tools,0.0
+smith machine squats,Handheld Objects & Tools,0.0
+smoky quartz,Geological Features & Minerals,0.0
+smoothie,Prepared Foods & Meals,0.0
+snake,Reptiles & Amphibians,0.0
+snatch,Transportation Infrastructure,0.0
+snorlax,Wild Mammals,0.0
+snow,Natural Non-Geological Features,0.0
+snow leopard,Wild Mammals,0.0
+snowboarding,Non-Motorized Transportation,0.0
+snowfall,Natural Non-Geological Features,0.0
+snowflake,Natural Non-Geological Features,0.0
+snowmobile,Transportation Infrastructure,0.0
+snowshoe,Handheld Objects & Tools,0.0
+snowstorm,Natural Non-Geological Features,0.0
+soap,Handheld Objects & Tools,0.0
+soap opera,"Abstract Concepts, Places, People & Activities",0.0
+soapstone,Buildings & Large Structures,0.0
+soccer ball,"Abstract Concepts, Places, People & Activities",0.0
+society,"Abstract Concepts, Places, People & Activities",0.0
+sock,Handheld Objects & Tools,0.0
+socks,Handheld Objects & Tools,0.0
+sofa,Domesticated Mammals,0.0
+soju,Prepared Foods & Meals,0.98
+song,"Abstract Concepts, Places, People & Activities",0.87
+soup,Prepared Foods & Meals,0.96
+soursop,Fruits,0.95
+speedboat,"Cars, Trucks, Boats & Other Motorized Vehicles",0.97
+speedtriple,Motorcycles,0.93
+sphinx,"Birds, Fish, Insects & Other Animals",0.85
+spin-off,other,0.76
+spinach,Non-Tree Plants,0.82
+splunk,Handheld Objects & Tools,0.91
+spoon,Handheld Objects & Tools,0.97
+starmie,other,0.72
+stationary bike sprints,Non-Motorized Transportation,0.81
+statue of liberty,Buildings & Large Structures,0.99
+steak,Prepared Foods & Meals,0.97
+steppe,Geological Features & Minerals,0.88
+stove,Handheld Objects & Tools,0.95
+strait,Natural Non-Geological Features,0.94
+strawberry,Fruits,0.96
+streaming,other,0.75
+streetfighter,Aircraft,0.0
+streettriple,Other Raw Foods,0.0
+submarine,Aircraft,0.0
+subway,Transportation Infrastructure,0.0
+sugarcane,Fruits,0.0
+suitcase,Handheld Objects & Tools,0.0
+summit,Geological Features & Minerals,0.0
+sun,Natural Non-Geological Features,0.0
+sunflower,Non-Tree Plants,0.0
+sunglasses,Handheld Objects & Tools,0.0
+superman holds,"Abstract Concepts, Places, People & Activities",0.0
+sushi,Prepared Foods & Meals,0.0
+sv650,Motorcycles,0.0
+swamp,Natural Non-Geological Features,0.0
+swan,"Birds, Fish, Insects & Other Animals",0.0
+switch,Handheld Objects & Tools,0.0
+sydney opera house,Transportation Infrastructure,0.0
+syenite,Geological Features & Minerals,0.0
+table,Buildings & Large Structures,0.0
+taco,Prepared Foods & Meals,0.0
+taiga,Geological Features & Minerals,0.0
+tailplane,Aircraft,0.0
+taj mahal,Buildings & Large Structures,0.0
+tale,"Abstract Concepts, Places, People & Activities",0.0
+tamarind,Fruits,0.0
+tank,Handheld Objects & Tools,0.0
+tap,Buildings & Large Structures,0.0
+taxi,Transportation Infrastructure,0.0
+taxiway,Transportation Infrastructure,0.0
+technology,"Abstract Concepts, Places, People & Activities",0.0
+tectonite,Geological Features & Minerals,0.0
+teddy bear,Domesticated Mammals,0.0
+telescope,Other Raw Foods,0.0
+temperature,"Abstract Concepts, Places, People & Activities",0.0
+tennessee,Geological Features & Minerals,0.0
+tent,Other Raw Foods,0.0
+tequila,Prepared Foods & Meals,0.0
+terminal,Transportation Infrastructure,0.0
+tesla,Motorcycles,0.0
+texas,Geological Features & Minerals,0.0
+texas instruments,Other Raw Foods,0.0
+texas spiny lizard,Reptiles & Amphibians,0.0
+thistle,Non-Tree Plants,0.0
+thoracic rotations,"Abstract Concepts, Places, People & Activities",0.0
+thorny devil,Other Raw Foods,0.0
+thread,Handheld Objects & Tools,0.0
+thruster,Motorcycles,0.0
+thunder,Natural Non-Geological Features,0.0
+thundercloud,Natural Non-Geological Features,0.0
+tiger,Wild Mammals,0.0
+time machine,"Abstract Concepts, Places, People & Activities",0.0
+tire,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+titanic,Transportation Infrastructure,0.0
+toad,Wild Mammals,0.0
+toaster,Handheld Objects & Tools,0.0
+tokay gecko,Other Raw Foods,0.0
+tomato,Fruits,0.0
+tool,Handheld Objects & Tools,0.0
+toolbox,Handheld Objects & Tools,0.0
+toothbrush,Handheld Objects & Tools,0.0
+topaz,Geological Features & Minerals,0.0
+tornado,Natural Non-Geological Features,0.0
+tortoise,Wild Mammals,0.0
+toucan,Other Raw Foods,0.0
+toy,Handheld Objects & Tools,0.0
+toy car,Aircraft,0.0
+tractor,Domesticated Mammals,0.0
+trail,Natural Non-Geological Features,0.0
+trailer,Transportation Infrastructure,0.0
+train,Aircraft,0.0
+train station,Transportation Infrastructure,0.0
+tram,Motorcycles,0.0
+tramcar,Motorcycles,0.0
+transponder,Other Raw Foods,0.0
+travertine,Geological Features & Minerals,0.0
+treasure chest,"Abstract Concepts, Places, People & Activities",0.0
+tree,Trees,0.0
+tree monitor,Other Raw Foods,0.0
+trekking pole,Handheld Objects & Tools,0.0
+trolley,Transportation Infrastructure,0.0
+trolleybus,Motorcycles,0.0
+tropical-air,Other Raw Foods,0.0
+truck,"Cars, Trucks, Boats & Other Motorized Vehicles",0.0
+truth,"Abstract Concepts, Places, People & Activities",0.0
+tuff,Geological Features & Minerals,0.0
+tulip,Non-Tree Plants,0.0
+tuna,Other Raw Foods,0.0
+tuono,"Abstract Concepts, Places, People & Activities",0.0
+turtle,"Birds, Fish, Insects & Other Animals",0.0
+twilio,Transportation Infrastructure,0.0
+typhoon,Natural Non-Geological Features,0.0
+uber technologies,Other Raw Foods,0.0
+ugli fruit,Fruits,0.0
+umbrella,Handheld Objects & Tools,0.0
+universe,"Abstract Concepts, Places, People & Activities",0.0
+urchin,Wild Mammals,0.0
+utah,"Abstract Concepts, Places, People & Activities",0.0
+vacuum,Handheld Objects & Tools,1.0
+vacuum cleaner,Handheld Objects & Tools,0.0
+valley,Natural Non-Geological Features,0.0
+valve,Handheld Objects & Tools,0.0
+van,Transportation Infrastructure,0.0
+vase,Handheld Objects & Tools,0.0
+vegetable soup,Prepared Foods & Meals,0.0
+veiled chameleon,Reptiles & Amphibians,0.0
+venusaur,Wild Mammals,0.0
+vermont,Other Raw Foods,0.0
+version,Other Raw Foods,0.0
+village,"Abstract Concepts, Places, People & Activities",0.0
+villain,"Abstract Concepts, Places, People & Activities",0.0
+violin,"Abstract Concepts, Places, People & Activities",0.0
+virga,"Abstract Concepts, Places, People & Activities",0.0
+visor,Handheld Objects & Tools,0.0
+vitamin,Prepared Foods & Meals,0.0
+volcano,Geological Features & Minerals,0.0
+volleyball,"Abstract Concepts, Places, People & Activities",0.0
+vr headset,Handheld Objects & Tools,0.0
+vstrom1050,Aircraft,0.0
+vstrom650,Aircraft,0.0
+vulture,"Birds, Fish, Insects & Other Animals",1.0
+wagon,Transportation Infrastructure,0.0
+wall,Buildings & Large Structures,0.0
+wallet,Handheld Objects & Tools,0.0
+walrus,Wild Mammals,0.0
+wardrobe,Buildings & Large Structures,0.95
+warthog,Wild Mammals,0.0
+wartortle,Reptiles & Amphibians,0.0
+washing machine,Handheld Objects & Tools,0.0
+watch,Handheld Objects & Tools,0.0
+water,Natural Non-Geological Features,0.0
+water bottle,Handheld Objects & Tools,0.0
+water dragon,Wild Mammals,0.0
+waterfall,Natural Non-Geological Features,0.0
+watermelon,Fruits,0.0
+watermelon slice,Prepared Foods & Meals,0.0
+way,"Abstract Concepts, Places, People & Activities",0.0
+wealth,"Abstract Concepts, Places, People & Activities",0.0
+weather,"Abstract Concepts, Places, People & Activities",0.0
+weather-map,Prepared Foods & Meals,0.0
+weighted vest push-ups,Handheld Objects & Tools,0.0
+weighted vest squats,Handheld Objects & Tools,0.0
+weimaraner,Wild Mammals,0.0
+wet-grind,Handheld Objects & Tools,0.0
+whale,"Birds, Fish, Insects & Other Animals",0.0
+wheat,Fruits,0.0
+wheel,Motorcycles,0.0
+whiteboard,"Abstract Concepts, Places, People & Activities",0.0
+winterproof,Non-Tree Plants,0.0
+wolf,Wild Mammals,0.0
+wombat,Domesticated Mammals,0.0
+woodworking,Handheld Objects & Tools,0.0
+workday,"Abstract Concepts, Places, People & Activities",0.0
+wrench,Handheld Objects & Tools,0.0
+xerox,Handheld Objects & Tools,0.0
+yacht,Motorcycles,0.0
+yak,Domesticated Mammals,0.0
+yard,Non-Tree Plants,0.0
+yogurt,Prepared Foods & Meals,0.0
+zebra,Wild Mammals,0.0
+zercher squat,Handheld Objects & Tools,0.0
+zx6r,Other Raw Foods,0.0
