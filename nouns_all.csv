@@ -2,15 +2,15 @@ noun,category
 aardvark,Wild Mammals
 acai,Fruits
 action figure,Handheld Objects & Tools
-actor,Domesticated Mammals
-adobe,Buildings & Large Structures
-advanced micro,Other Raw Foods
-aerodactyl,Motorcycles
-aeronautical engineer,Transportation Infrastructure
+actor,"Abstract Concepts, Places, People & Activities"
+adobe,"Abstract Concepts, Places, People & Activities"
+advanced micro,Birds, Fish, Insects & Other Animals
+aerodactyl,"Abstract Concepts, Places, People & Activities"
+aeronautical engineer,"Abstract Concepts, Places, People & Activities"
 african elephant,Wild Mammals
 africatwin,"Birds, Fish, Insects & Other Animals"
 agate,Fruits
-agility ladder drills,Handheld Objects & Tools
+agility ladder drills, "Abstract Concepts, Places, People & Activities"
 air,Natural Non-Geological Features
 air start unit,Transportation Infrastructure
 air traffic controller,Transportation Infrastructure
@@ -18,99 +18,98 @@ aircraft mechanic,Aircraft
 airedale terrier,Domesticated Mammals
 airliner,Aircraft
 airplane,Aircraft
-airport,Aircraft
-airship,Trees
-airspace,Aircraft
-akamai technologies,Natural Non-Geological Features
+airport,Transportation Infrastructure
+airship,Aircraft
+airspace,Transportation Infrastructure
+akamai technologies,"Abstract Concepts, Places, People & Activities"
 akita,Fruits
-alabama,Wild Mammals
-alaska,Wild Mammals
+alabama,"Abstract Concepts, Places, People & Activities"
+alaska,"Abstract Concepts, Places, People & Activities"
 alaskan malamute,Domesticated Mammals
-albuqerque,Domesticated Mammals
-allen iverson,Geological Features & Minerals
+albuqerque,"Abstract Concepts, Places, People & Activities"
+allen iverson,"Abstract Concepts, Places, People & Activities"
 alligator,Reptiles & Amphibians
-alpaca,Aircraft
+alpaca,Domesticated Mammals
 alphabet,Reptiles & Amphibians
 altimeter,Domesticated Mammals
 amazon,Wild Mammals
 amazon river,Domesticated Mammals
-amazonite,Domesticated Mammals
+amazonite,Geological Features & Minerals
 ambulance,Transportation Infrastructure
-american football,Domesticated Mammals
+american football,"Abstract Concepts, Places, People & Activities"
 american samoa,Domesticated Mammals
-amethyst,Motorcycles
-amphibolite,Domesticated Mammals
-anaconda,Transportation Infrastructure
-anchorage,Aircraft
-andesite,Domesticated Mammals
-angelite,Handheld Objects & Tools
-animation,Non-Motorized Transportation
-anorthosite,Domesticated Mammals
+amethyst,Natural Non-Geological Features
+amphibolite,Natural Non-Geological Features
+anaconda,Reptiles & Amphibians
+anchorage,"Abstract Concepts, Places, People & Activities"
+andesite,Natural Non-Geological Features
+angelite,Natural Non-Geological Features
+animation,"Abstract Concepts, Places, People & Activities"
+anorthosite,Natural Non-Geological Features
 ant,"Birds, Fish, Insects & Other Animals"
-antagonist,"Birds, Fish, Insects & Other Animals"
-anteater,"Birds, Fish, Insects & Other Animals"
-antelope,"Birds, Fish, Insects & Other Animals"
-antenna,"Birds, Fish, Insects & Other Animals"
-anthony davis,"Birds, Fish, Insects & Other Animals"
-anthracite,"Birds, Fish, Insects & Other Animals"
-anvil,Wild Mammals
+antagonist,"Abstract Concepts, Places, People & Activities"
+anteater,Wild Mammals
+antelope,Wild Mammals
+antenna,Handheld Objects & Tools
+anthony davis,"Abstract Concepts, Places, People & Activities"
+anthracite,Geological Features & Minerals
+anvil,Handheld Objects & Tools
 apartment,Buildings & Large Structures
-apatite,Transportation Infrastructure
-appearance,Motorcycles
+apatite,Geological Features & Minerals
+appearance,"Abstract Concepts, Places, People & Activities"
 apple,Fruits
 apple pie,Prepared Foods & Meals
 apple tree,Trees
-applied materials,Wild Mammals
+applied materials,"Abstract Concepts, Places, People & Activities"
 apricot,Fruits
 apron,Handheld Objects & Tools
 aquamarine,Geological Features & Minerals
 aragonite,Domesticated Mammals
 arcade machine,Domesticated Mammals
-archery,Domesticated Mammals
+archery,"Abstract Concepts, Places, People & Activities"
 archipelago,Geological Features & Minerals
-architect,Buildings & Large Structures
+architect,"Abstract Concepts, Places, People & Activities"
 arctic tundra,Natural Non-Geological Features
 arctic wolf,Wild Mammals
-arizona,Fruits
-arkansas,Non-Tree Plants
+arizona,"Abstract Concepts, Places, People & Activities"
+arkansas,"Abstract Concepts, Places, People & Activities"
 arkose,Domesticated Mammals
-arlington,Fruits
+arlington,"Abstract Concepts, Places, People & Activities"
 arm,Handheld Objects & Tools
-armadillo,Natural Non-Geological Features
 armadillo girdled lizard,Reptiles & Amphibians
-articuno,Fruits
-artisan,Fruits
-artist,Fruits
-assisted dip,Handheld Objects & Tools
-astronaut,Fruits
+articuno,"Abstract Concepts, Places, People & Activities"
+artisan,"Abstract Concepts, Places, People & Activities"
+artist,"Abstract Concepts, Places, People & Activities"
+assisted dip,"Abstract Concepts, Places, People & Activities"
+astronaut,"Abstract Concepts, Places, People & Activities"
 astronomy,"Abstract Concepts, Places, People & Activities"
-athlete,Domesticated Mammals
-atlanta,"Birds, Fish, Insects & Other Animals"
+athlete,"Abstract Concepts, Places, People & Activities"
+atlanta,"Abstract Concepts, Places, People & Activities"
 atmosphere,Domesticated Mammals
 atoll,Geological Features & Minerals
 atv,Aircraft
-audience,Trees
-austin,Fruits
+audience,"Abstract Concepts, Places, People & Activities"
+austin,"Abstract Concepts, Places, People & Activities"
 australian shepherd,Domesticated Mammals
-autodesk,Fruits
-avionics,Aircraft
+autodesk,"Abstract Concepts, Places, People & Activities"
+avionics,"Abstract Concepts, Places, People & Activities"
 avocado,Domesticated Mammals
 avocado tree,Trees
 azalea,Trees
 baboon,Wild Mammals
 baby,Aircraft
-back squat,Aircraft
+back squat,"Abstract Concepts, Places, People & Activities"
 backpack,Handheld Objects & Tools
-bad-weather,Domesticated Mammals
+bad-weather,"Abstract Concepts, Places, People & Activities"
 badger,Domesticated Mammals
 badlands,Non-Tree Plants
-badminton,Fruits
+badminton,"Abstract Concepts, Places, People & Activities"
 bag,Aircraft
 bagel,Handheld Objects & Tools
 bagel with cream,Prepared Foods & Meals
 baguette,Domesticated Mammals
 bait,Fruits
-bakersfield,Domesticated Mammals
+bakersfield,"Abstract Concepts, Places, People & Activities"
 bakery,Domesticated Mammals
 baking,Buildings & Large Structures
 bald eagle,"Birds, Fish, Insects & Other Animals"
@@ -120,27 +119,27 @@ baltimore,Motorcycles
 bamboo,Other Raw Foods
 banana,Transportation Infrastructure
 banana plant,"Birds, Fish, Insects & Other Animals"
-band curl,Transportation Infrastructure
-band deadlift,Prepared Foods & Meals
-band face pull,Handheld Objects & Tools
-band kickback,Handheld Objects & Tools
-band lateral walk,Wild Mammals
-band overhead press,Handheld Objects & Tools
-band press,Trees
-band pull-apart,Non-Motorized Transportation
-band row,Handheld Objects & Tools
-band squat,Non-Motorized Transportation
-bandit1200,Fruits
-barbell curl,Buildings & Large Structures
-barbell rollout,Natural Non-Geological Features
-barbell row,Prepared Foods & Meals
-barbell rows,Trees
-barbell shrug,Trees
-barbell squats,Non-Tree Plants
+band curl,"Abstract Concepts, Places, People & Activities"
+band deadlift,"Abstract Concepts, Places, People & Activities"
+band face pull,"Abstract Concepts, Places, People & Activities"
+band kickback,"Abstract Concepts, Places, People & Activities"
+band lateral walk,"Abstract Concepts, Places, People & Activities"
+band overhead press,"Abstract Concepts, Places, People & Activities"
+band press,"Abstract Concepts, Places, People & Activities"
+band pull-apart,"Abstract Concepts, Places, People & Activities"
+band row,"Abstract Concepts, Places, People & Activities"
+band squat,"Abstract Concepts, Places, People & Activities"
+bandit1200,Motorcycle
+barbell curl,"Abstract Concepts, Places, People & Activities"
+barbell rollout,"Abstract Concepts, Places, People & Activities"
+barbell row,"Abstract Concepts, Places, People & Activities"
+barbell rows,"Abstract Concepts, Places, People & Activities"
+barbell shrug,"Abstract Concepts, Places, People & Activities"
+barbell squats,"Abstract Concepts, Places, People & Activities"
 barge,Trees
 barite,Geological Features & Minerals
 basalt,Wild Mammals
-baseball,Wild Mammals
+baseball,"Abstract Concepts, Places, People & Activities"
 basenji,Handheld Objects & Tools
 basil,Domesticated Mammals
 basket,Aircraft
@@ -149,50 +148,50 @@ basset hound,Reptiles & Amphibians
 bat,Aircraft
 bathtub,Domesticated Mammals
 battery,Domesticated Mammals
-battle rope waves,Other Raw Foods
+battle rope waves,"Abstract Concepts, Places, People & Activities"
 bauxite,Fruits
 bay,Aircraft
 beach,Domesticated Mammals
 beagle,"Birds, Fish, Insects & Other Animals"
 bear,"Birds, Fish, Insects & Other Animals"
-bear crawls,"Birds, Fish, Insects & Other Animals"
+bear crawls,"Abstract Concepts, Places, People & Activities"
 bearded dragon,"Birds, Fish, Insects & Other Animals"
-beaver,Domesticated Mammals
+beaver,Wild Mammals
 bed,Domesticated Mammals
-bedroom,Other Raw Foods
+bedroom,"Abstract Concepts, Places, People & Activities"
 bee,"Birds, Fish, Insects & Other Animals"
-beedrill,"Birds, Fish, Insects & Other Animals"
+beedrill,"Abstract Concepts, Places, People & Activities"
 beekeeping,"Birds, Fish, Insects & Other Animals"
 beer,"Birds, Fish, Insects & Other Animals"
-beethoven,"Birds, Fish, Insects & Other Animals"
+beethoven,"Abstract Concepts, Places, People & Activities"
 bell,Wild Mammals
-bench press,Trees
+bench press,"Abstract Concepts, Places, People & Activities"
 bengal tiger,"Birds, Fish, Insects & Other Animals"
-berlin,Domesticated Mammals
+berlin,"Abstract Concepts, Places, People & Activities"
 bernese mountain dog,"Birds, Fish, Insects & Other Animals"
 beryl,Domesticated Mammals
 bicycle,Motorcycles
 bike,Domesticated Mammals
-bill russell,Wild Mammals
-bill sharman,Wild Mammals
-bill walton,Wild Mammals
-billy cunningham,Wild Mammals
-binge,Buildings & Large Structures
+bill russell,"Abstract Concepts, Places, People & Activities"
+bill sharman,"Abstract Concepts, Places, People & Activities"
+bill walton,"Abstract Concepts, Places, People & Activities"
+billy cunningham,"Abstract Concepts, Places, People & Activities"
+binge,"Abstract Concepts, Places, People & Activities"
 binoculars,Wild Mammals
 bird,"Birds, Fish, Insects & Other Animals"
 birding,"Birds, Fish, Insects & Other Animals"
-birdwatching,"Birds, Fish, Insects & Other Animals"
-birmingham,Aircraft
+birdwatching,"Abstract Concepts, Places, People & Activities"
+birmingham,"Abstract Concepts, Places, People & Activities"
 bison,Fruits
 black box,Handheld Objects & Tools
 blackberry,Domesticated Mammals
 blanket,Non-Tree Plants
-blastoise,Non-Tree Plants
+blastoise,"Abstract Concepts, Places, People & Activities"
 blender,Domesticated Mammals
 blimp,Wild Mammals
 blizzard,Aircraft
 block,Motorcycles
-blogging,Geological Features & Minerals
+blogging,"Abstract Concepts, Places, People & Activities"
 bloodhound,Domesticated Mammals
 blue whale,Wild Mammals
 blue-tongued skink,Non-Tree Plants
@@ -201,16 +200,16 @@ blueberry bush,Fruits
 boar,Domesticated Mammals
 board,Domesticated Mammals
 boat,"Cars, Trucks, Boats & Other Motorized Vehicles"
-bob cousy,Motorcycles
-bob mcadoo,Domesticated Mammals
-bob pettit,Domesticated Mammals
-boba tea,Domesticated Mammals
+bob cousy,"Abstract Concepts, Places, People & Activities"
+bob mcadoo,"Abstract Concepts, Places, People & Activities"
+bob pettit,"Abstract Concepts, Places, People & Activities"
+boba tea,"Abstract Concepts, Places, People & Activities"
 book,Motorcycles
 booking holdings,Non-Tree Plants
 bookshelf,Domesticated Mammals
 boot,Domesticated Mammals
 border collie,Motorcycles
-boston,Domesticated Mammals
+boston,"Abstract Concepts, Places, People & Activities"
 boston terrier,Domesticated Mammals
 bottle,Domesticated Mammals
 bottle episode,Motorcycles
@@ -218,18 +217,18 @@ bottlecap,Domesticated Mammals
 boulder,Domesticated Mammals
 bowl,Motorcycles
 box,Domesticated Mammals
-box jumps,Wild Mammals
+box jumps,"Abstract Concepts, Places, People & Activities"
 boxer,Domesticated Mammals
-boxing,Non-Tree Plants
+boxing,"Abstract Concepts, Places, People & Activities"
 boysenberry,Domesticated Mammals
 bread,Trees
 breadfruit,Fruits
 breath,Aircraft
 breccia,Trees
-brian,Fruits
+brian,"Abstract Concepts, Places, People & Activities"
 brick,Fruits
 bridge,Buildings & Large Structures
-broadcast,Aircraft
+broadcast,"Abstract Concepts, Places, People & Activities"
 broadcom,Prepared Foods & Meals
 brookesia micra,Aircraft
 broom,Other Raw Foods
@@ -238,36 +237,36 @@ brush,Fruits
 bucket,Fruits
 buffalo,Wild Mammals
 building,Buildings & Large Structures
-bulbasaur,Buildings & Large Structures
+bulbasaur,"Abstract Concepts, Places, People & Activities"
 bulldog,"Birds, Fish, Insects & Other Animals"
 bulldozer,Domesticated Mammals
 bullmastiff,Wild Mammals
 burger,Domesticated Mammals
-burj khalifa,Non-Tree Plants
-burpee,Trees
-burpees,Trees
+burj khalifa,"Abstract Concepts, Places, People & Activities"
+burpee,"Abstract Concepts, Places, People & Activities"
+burpees,"Abstract Concepts, Places, People & Activities"
 burrito,Fruits
 bus,Fruits
 bush,Fruits
 butte,Domesticated Mammals
 butterfly,Domesticated Mammals
-butterfree,Domesticated Mammals
+butterfree,"Abstract Concepts, Places, People & Activities"
 button,Fruits
 cable,Motorcycles
-cable bicep curls,Handheld Objects & Tools
-cable crossover,Geological Features & Minerals
-cable lat pulldown,Geological Features & Minerals
-cable lateral raises,Geological Features & Minerals
-cable rows,Motorcycles
-cable tricep pushdowns,Domesticated Mammals
+cable bicep curls,"Abstract Concepts, Places, People & Activities"
+cable crossover,"Abstract Concepts, Places, People & Activities"
+cable lat pulldown,"Abstract Concepts, Places, People & Activities"
+cable lateral raises,"Abstract Concepts, Places, People & Activities"
+cable rows,"Abstract Concepts, Places, People & Activities"
+cable tricep pushdowns,"Abstract Concepts, Places, People & Activities"
 cactus,Aircraft
 caesar salad,Prepared Foods & Meals
 cake,Aircraft
 calcite,Domesticated Mammals
 calculator,Geological Features & Minerals
 calendar,Domesticated Mammals
-california,Aircraft
-calligraphy,Aircraft
+california,"Abstract Concepts, Places, People & Activities"
+calligraphy,"Abstract Concepts, Places, People & Activities"
 camel,Wild Mammals
 camellia,Wild Mammals
 camera,Aircraft
@@ -275,7 +274,7 @@ camp chair,Wild Mammals
 camp stove,Aircraft
 campervan,Domesticated Mammals
 campfire,Trees
-camping,Reptiles & Amphibians
+camping,"Abstract Concepts, Places, People & Activities"
 canal,Wild Mammals
 candle,Motorcycles
 candleholder,Handheld Objects & Tools
@@ -283,23 +282,23 @@ cane corso,Handheld Objects & Tools
 canoe,Domesticated Mammals
 cantaloupe,"Birds, Fish, Insects & Other Animals"
 canyon,Aircraft
-captain,Non-Motorized Transportation
+captain,"Abstract Concepts, Places, People & Activities"
 car,"Cars, Trucks, Boats & Other Motorized Vehicles"
 car tire,"Cars, Trucks, Boats & Other Motorized Vehicles"
 carabiner,"Cars, Trucks, Boats & Other Motorized Vehicles"
 carbonatite,"Cars, Trucks, Boats & Other Motorized Vehicles"
-carmelo anthony,"Cars, Trucks, Boats & Other Motorized Vehicles"
+carmelo anthony,"Abstract Concepts, Places, People & Activities"
 carnelian,"Cars, Trucks, Boats & Other Motorized Vehicles"
-carpenter,"Cars, Trucks, Boats & Other Motorized Vehicles"
+carpenter,"Abstract Concepts, Places, People & Activities"
 carpet,"Cars, Trucks, Boats & Other Motorized Vehicles"
 carrot,"Cars, Trucks, Boats & Other Motorized Vehicles"
 carrot sticks,"Cars, Trucks, Boats & Other Motorized Vehicles"
 cart,"Cars, Trucks, Boats & Other Motorized Vehicles"
-cartoon,"Cars, Trucks, Boats & Other Motorized Vehicles"
+cartoon,"Abstract Concepts, Places, People & Activities"
 castle,Buildings & Large Structures
 cat,"Birds, Fish, Insects & Other Animals"
 catamaran,"Birds, Fish, Insects & Other Animals"
-caterpie,"Birds, Fish, Insects & Other Animals"
+caterpie,"Abstract Concepts, Places, People & Activities"
 cattail,"Birds, Fish, Insects & Other Animals"
 cavalier king charles spaniel,Geological Features & Minerals
 cave,Aircraft
@@ -308,7 +307,7 @@ cbr600rr,Aircraft
 cedar tree,Trees
 ceiling,Reptiles & Amphibians
 ceiling fan,Reptiles & Amphibians
-celebration,Aircraft
+celebration,"Abstract Concepts, Places, People & Activities"
 celestite,Trees
 central netted dragon,Non-Motorized Transportation
 cereal with milk,Geological Features & Minerals
@@ -321,22 +320,22 @@ chalk,Aircraft
 chameleon,Handheld Objects & Tools
 champagne,Domesticated Mammals
 charger,Domesticated Mammals
-charizard,Other Raw Foods
-charles barkley,Reptiles & Amphibians
+charizard,"Abstract Concepts, Places, People & Activities"
+charles barkley,"Abstract Concepts, Places, People & Activities"
 charleston,Trees
 charlotte,Domesticated Mammals
-charmander,Domesticated Mammals
-charmeleon,Trees
+charmander,"Abstract Concepts, Places, People & Activities"
+charmeleon,"Abstract Concepts, Places, People & Activities"
 cheese,Trees
 cheeseburger,Domesticated Mammals
 cheetah,Domesticated Mammals
-chef,Domesticated Mammals
+chef,"Abstract Concepts, Places, People & Activities"
 cherry,Domesticated Mammals
 cherry blossom tree,Geological Features & Minerals
 chert,Domesticated Mammals
 chess,Domesticated Mammals
 chessboard,Domesticated Mammals
-chest press,Domesticated Mammals
+chest press,"Abstract Concepts, Places, People & Activities"
 chest press machine,Reptiles & Amphibians
 chicago,Aircraft
 chicken,Domesticated Mammals
@@ -349,19 +348,19 @@ chocolate,Domesticated Mammals
 chocolate bar,Domesticated Mammals
 chocolate cake,Domesticated Mammals
 chow chow,Other Raw Foods
-chris paul,Reptiles & Amphibians
-christ the redeemer,"Cars, Trucks, Boats & Other Motorized Vehicles"
+chris paul,"Abstract Concepts, Places, People & Activities"
+christ the redeemer,"Abstract Concepts, Places, People & Activities"
 chrysoberyl,Domesticated Mammals
 chrysoprase,Transportation Infrastructure
 church,Domesticated Mammals
 cilantro,"Birds, Fish, Insects & Other Animals"
 cinder block,Aircraft
-cisco systems,Domesticated Mammals
+cisco systems,"Abstract Concepts, Places, People & Activities"
 citrine,Domesticated Mammals
 city,Fruits
 clean,Motorcycles
-cleopatra,Domesticated Mammals
-cliffhanger,Domesticated Mammals
+cleopatra,"Abstract Concepts, Places, People & Activities"
+cliffhanger,"Abstract Concepts, Places, People & Activities"
 climate,Aircraft
 climbing,Reptiles & Amphibians
 climbing harness,Buildings & Large Structures
@@ -369,8 +368,8 @@ clock,Motorcycles
 cloud,Motorcycles
 clover,Domesticated Mammals
 clownfish,"Birds, Fish, Insects & Other Animals"
-clyde drexler,Trees
-coach,Domesticated Mammals
+clyde drexler,"Abstract Concepts, Places, People & Activities"
+coach,"Abstract Concepts, Places, People & Activities"
 coal,Aircraft
 coat,Aircraft
 cobra,Aircraft
@@ -384,32 +383,32 @@ coffee maker,Domesticated Mammals
 cognizant,"Birds, Fish, Insects & Other Animals"
 coin,Domesticated Mammals
 coin purse,Transportation Infrastructure
-coinbase global,Non-Tree Plants
+coinbase global,"Abstract Concepts, Places, People & Activities"
 cold open,Motorcycles
 collared lizard,Non-Tree Plants
 collecting,Geological Features & Minerals
 college,Domesticated Mammals
 collie,Domesticated Mammals
-colorado,Aircraft
-colorado springs,Non-Motorized Transportation
-colosseum,Motorcycles
-columbia,Reptiles & Amphibians
-columbus,Motorcycles
+colorado,"Abstract Concepts, Places, People & Activities"
+colorado springs,"Abstract Concepts, Places, People & Activities"
+colosseum,"Abstract Concepts, Places, People & Activities"
+columbia,"Abstract Concepts, Places, People & Activities"
+columbus,"Abstract Concepts, Places, People & Activities"
 comb,Domesticated Mammals
 comic book,Domesticated Mammals
-commercial,Domesticated Mammals
-committee,Domesticated Mammals
+commercial,"Abstract Concepts, Places, People & Activities"
+committee,"Abstract Concepts, Places, People & Activities"
 common agama,Domesticated Mammals
 common basilisk,Domesticated Mammals
 common wall lizard,Geological Features & Minerals
 compass,Domesticated Mammals
 computer,Domesticated Mammals
 conglomerate,Aircraft
-connecticut,Domesticated Mammals
+connecticut,"Abstract Concepts, Places, People & Activities"
 continent,Domesticated Mammals
 control tower,Buildings & Large Structures
 cookie,Domesticated Mammals
-cooking,Motorcycles
+cooking,"Abstract Concepts, Places, People & Activities"
 coral reef,Aircraft
 cord,Domesticated Mammals
 corn,Domesticated Mammals
@@ -417,19 +416,19 @@ cottage cheese,Domesticated Mammals
 cotton shirt,Domesticated Mammals
 couch,Domesticated Mammals
 cougar,Domesticated Mammals
-country,Domesticated Mammals
+country,"Abstract Concepts, Places, People & Activities"
 cow,Domesticated Mammals
 coyote,Domesticated Mammals
 crab,Aircraft
 cracker,Aircraft
 cranberry,Aircraft
-credits,Fruits
+credits,"Abstract Concepts, Places, People & Activities"
 crested gecko,Domesticated Mammals
 cricket,Fruits
 crocodile,Motorcycles
 croissant,"Birds, Fish, Insects & Other Animals"
-crossover,Domesticated Mammals
-crowdstrike,Domesticated Mammals
+crossover,"Abstract Concepts, Places, People & Activities"
+crowdstrike,"Abstract Concepts, Places, People & Activities"
 crunch,Fruits
 crystal,Aircraft
 cub,Fruits
@@ -445,82 +444,82 @@ cycling,Motorcycles
 cyclone,Motorcycles
 dachshund,Wild Mammals
 dahlia,Aircraft
-dallas,Wild Mammals
+dallas,"Abstract Concepts, Places, People & Activities"
 dalmatian,Non-Motorized Transportation
 dam,Wild Mammals
-damian lillard,Domesticated Mammals
-dancer,Domesticated Mammals
-dancing,Non-Motorized Transportation
+damian lillard,"Abstract Concepts, Places, People & Activities"
+dancer,"Abstract Concepts, Places, People & Activities"
+dancing,"Abstract Concepts, Places, People & Activities"
 dandelion,"Birds, Fish, Insects & Other Animals"
-darwin,Fruits
-date,Domesticated Mammals
-dave bing,Reptiles & Amphibians
-dave cowens,Trees
-dave debusschere,Buildings & Large Structures
-david robinson,Reptiles & Amphibians
+darwin"Abstract Concepts, Places, People & Activities"
+date,"Abstract Concepts, Places, People & Activities"
+dave bing,"Abstract Concepts, Places, People & Activities"
+dave cowens,"Abstract Concepts, Places, People & Activities"
+dave debusschere,"Abstract Concepts, Places, People & Activities"
+david robinson,"Abstract Concepts, Places, People & Activities"
 day gecko,Handheld Objects & Tools
 daytona675,Wild Mammals
 de-icing truck,"Cars, Trucks, Boats & Other Motorized Vehicles"
-deadlift,Aircraft
-deadlifts,Fruits
+deadlift,"Abstract Concepts, Places, People & Activities"
+deadlifts,"Abstract Concepts, Places, People & Activities"
 deep freezer,Trees
 deer,Domesticated Mammals
-delaware,Geological Features & Minerals
-dell technologies,Handheld Objects & Tools
+delaware,"Abstract Concepts, Places, People & Activities"
+dell technologies,"Abstract Concepts, Places, People & Activities"
 delta,Non-Tree Plants
-dennis rodman,Reptiles & Amphibians
-dentist,Non-Tree Plants
-denver,Domesticated Mammals
+dennis rodman,"Abstract Concepts, Places, People & Activities"
+dentist,"Abstract Concepts, Places, People & Activities"
+denver,"Abstract Concepts, Places, People & Activities"
 desert,Domesticated Mammals
 desert iguana,Domesticated Mammals
 desert monitor,Other Raw Foods
 desertx,Domesticated Mammals
-designer,Geological Features & Minerals
+designer,"Abstract Concepts, Places, People & Activities"
 desk,Trees
 desk lamp,Domesticated Mammals
-detective,Buildings & Large Structures
-detroit,Fruits
+detective,"Abstract Concepts, Places, People & Activities"
+detroit,"Abstract Concepts, Places, People & Activities"
 dew,Domesticated Mammals
 diamond,Wild Mammals
 diavel,Aircraft
 dice,Aircraft
-difference,Trees
+difference,"Abstract Concepts, Places, People & Activities"
 dinghy,Buildings & Large Structures
 diorite,Domesticated Mammals
-dip station exercises,Transportation Infrastructure
-direction,Aircraft
-director,Aircraft
-dirk nowitzki,Fruits
+dip station exercises,"Abstract Concepts, Places, People & Activities"
+direction,"Abstract Concepts, Places, People & Activities"
+director,"Abstract Concepts, Places, People & Activities"
+dirk nowitzki,"Abstract Concepts, Places, People & Activities"
 dirt,Aircraft
-disaster,Domesticated Mammals
+disaster,"Abstract Concepts, Places, People & Activities"
 dishwasher,Domesticated Mammals
-dispatcher,Domesticated Mammals
-district of columbia,Reptiles & Amphibians
-ditto,Fruits
+dispatcher,"Abstract Concepts, Places, People & Activities"
+district of columbia,"Abstract Concepts, Places, People & Activities"
+ditto,"Abstract Concepts, Places, People & Activities"
 doberman pinscher,Domesticated Mammals
-doctor,Domesticated Mammals
-documentary,Domesticated Mammals
+doctor,"Abstract Concepts, Places, People & Activities"
+documentary,"Abstract Concepts, Places, People & Activities"
 dog,"Birds, Fish, Insects & Other Animals"
 dolomite,Domesticated Mammals
-dolph schayes,Motorcycles
+dolph schayes,"Abstract Concepts, Places, People & Activities"
 dolphin,Reptiles & Amphibians
-dominique wilkins,Non-Tree Plants
+dominique wilkins,"Abstract Concepts, Places, People & Activities"
 donkey,Domesticated Mammals
 donut,Domesticated Mammals
 door,Domesticated Mammals
-doordash,Motorcycles
+doordash,"Abstract Concepts, Places, People & Activities"
 doorknob,Motorcycles
 dragon,Other Raw Foods
 dragonair,Natural Non-Geological Features
 dragonfruit,Fruits
-dragonite,Domesticated Mammals
-drama,Wild Mammals
+dragonite,"Abstract Concepts, Places, People & Activities"
+drama,"Abstract Concepts, Places, People & Activities"
 dratini,Aircraft
 drawer,Domesticated Mammals
-drawing,Fruits
-dream,Trees
+drawing,"Abstract Concepts, Places, People & Activities"
+dream,"Abstract Concepts, Places, People & Activities"
 drill,Fruits
-drizzle,Trees
+drizzle,"Abstract Concepts, Places, People & Activities"
 drone,Domesticated Mammals
 drought,Fruits
 drum,Fruits
@@ -532,92 +531,92 @@ duke200,Domesticated Mammals
 duke390,Domesticated Mammals
 duke790,Domesticated Mammals
 duke890,Domesticated Mammals
-dumbbell chest press,Geological Features & Minerals
-dumbbell curl,Geological Features & Minerals
-dumbbell deadlift,Geological Features & Minerals
-dumbbell fly,Handheld Objects & Tools
-dumbbell front raise,Geological Features & Minerals
-dumbbell hammer curl,Wild Mammals
-dumbbell kickback,Handheld Objects & Tools
-dumbbell lateral raise,Geological Features & Minerals
-dumbbell lunge,Handheld Objects & Tools
-dumbbell lunges,Geological Features & Minerals
-dumbbell press,Handheld Objects & Tools
-dumbbell pullover,Natural Non-Geological Features
-dumbbell row,Handheld Objects & Tools
-dumbbell shoulder press,Handheld Objects & Tools
-dumbbell shrug,Handheld Objects & Tools
-dumbbell snatch,Domesticated Mammals
-dumbbell squat,Domesticated Mammals
-dumbbell thruster,Geological Features & Minerals
-dumbbell tricep kickbacks,Domesticated Mammals
+dumbbell chest press,"Abstract Concepts, Places, People & Activities"
+dumbbell curl,"Abstract Concepts, Places, People & Activities"
+dumbbell deadlift,"Abstract Concepts, Places, People & Activities"
+dumbbell fly,"Abstract Concepts, Places, People & Activities"
+dumbbell front raise,"Abstract Concepts, Places, People & Activities"
+dumbbell hammer curl,"Abstract Concepts, Places, People & Activities"
+dumbbell kickback,"Abstract Concepts, Places, People & Activities"
+dumbbell lateral raise,"Abstract Concepts, Places, People & Activities"
+dumbbell lunge,"Abstract Concepts, Places, People & Activities"
+dumbbell lunges,"Abstract Concepts, Places, People & Activities"
+dumbbell press,"Abstract Concepts, Places, People & Activities"
+dumbbell pullover,"Abstract Concepts, Places, People & Activities"
+dumbbell row,"Abstract Concepts, Places, People & Activities"
+dumbbell shoulder press,"Abstract Concepts, Places, People & Activities"
+dumbbell shrug,"Abstract Concepts, Places, People & Activities"
+dumbbell snatch,"Abstract Concepts, Places, People & Activities"
+dumbbell squat,"Abstract Concepts, Places, People & Activities"
+dumbbell thruster,"Abstract Concepts, Places, People & Activities"
+dumbbell tricep kickbacks,"Abstract Concepts, Places, People & Activities"
 dumpling,Fruits
 dune,Domesticated Mammals
 durian,Fruits
-dwyane wade,Other Raw Foods
+dwyane wade,"Abstract Concepts, Places, People & Activities"
 eagle,"Birds, Fish, Insects & Other Animals"
-earl monroe,Other Raw Foods
+earl monroe,"Abstract Concepts, Places, People & Activities"
 earth,Domesticated Mammals
 eastern fence lizard,Other Raw Foods
 eclogite,Domesticated Mammals
-education,"Birds, Fish, Insects & Other Animals"
-eevee,Trees
+education,"Abstract Concepts, Places, People & Activities"
+eevee,"Abstract Concepts, Places, People & Activities"
 egg,Domesticated Mammals
 eiffel tower,Buildings & Large Structures
-einstein,Non-Motorized Transportation
-el paso,Wild Mammals
-electabuzz,Handheld Objects & Tools
+einstein,"Abstract Concepts, Places, People & Activities"
+el paso,"Abstract Concepts, Places, People & Activities"
+electabuzz,"Abstract Concepts, Places, People & Activities"
 electric car,"Cars, Trucks, Boats & Other Motorized Vehicles"
-electrician,Reptiles & Amphibians
-electricity,Fruits
-electronic arts,Natural Non-Geological Features
+electrician,"Abstract Concepts, Places, People & Activities"
+electricity,"Abstract Concepts, Places, People & Activities"
+electronic arts,"Abstract Concepts, Places, People & Activities"
 elephant,"Birds, Fish, Insects & Other Animals"
 elevator,Motorcycles
-elgin baylor,Buildings & Large Structures
+elgin baylor,"Abstract Concepts, Places, People & Activities"
 elk,Domesticated Mammals
-elliptical intervals,Geological Features & Minerals
-elvin hayes,Trees
-embroidery,Domesticated Mammals
+elliptical intervals,"Abstract Concepts, Places, People & Activities"
+elvin hayes,"Abstract Concepts, Places, People & Activities"
+embroidery,"Abstract Concepts, Places, People & Activities"
 emerald,Other Raw Foods
 emu,Domesticated Mammals
 engine,"Cars, Trucks, Boats & Other Motorized Vehicles"
-engineer,"Cars, Trucks, Boats & Other Motorized Vehicles"
+engineer,"Abstract Concepts, Places, People & Activities"
 english springer spaniel,Geological Features & Minerals
 envelope,Domesticated Mammals
 environment,Non-Tree Plants
-episode,Prepared Foods & Meals
+episode,"Abstract Concepts, Places, People & Activities"
 eraser,Other Raw Foods
 espresso,Trees
 estuary,Domesticated Mammals
 evaporite,Domesticated Mammals
 excavator,Geological Features & Minerals
-expression,Trees
+expression,"Abstract Concepts, Places, People & Activities"
 f900r,Domesticated Mammals
 factory,Motorcycles
 falafel wrap,Non-Motorized Transportation
 falcon,Wild Mammals
-family,Domesticated Mammals
+family,"Abstract Concepts, Places, People & Activities"
 fan,Non-Tree Plants
-farm,Wild Mammals
-farmer,Domesticated Mammals
-farmland,Non-Tree Plants
+farm,"Abstract Concepts, Places, People & Activities"
+farmer,"Abstract Concepts, Places, People & Activities"
+farmland,"Abstract Concepts, Places, People & Activities"
 faucet,Fruits
 fearow,Prepared Foods & Meals
 feather,Domesticated Mammals
-fencing,Geological Features & Minerals
+fencing,"Abstract Concepts, Places, People & Activities"
 fern,Domesticated Mammals
 ferret,Aircraft
 ferry,Domesticated Mammals
-field hockey,Wild Mammals
+field hockey,"Abstract Concepts, Places, People & Activities"
 fig,Fruits
 fighter jet,Domesticated Mammals
-fire,Trees
+fire,"Abstract Concepts, Places, People & Activities"
 fireblade,Trees
-firefighter,Domesticated Mammals
+firefighter,"Abstract Concepts, Places, People & Activities"
 firetruck,"Cars, Trucks, Boats & Other Motorized Vehicles"
 firewood,Other Raw Foods
 first aid kit,Aircraft
-first officer,Aircraft
+first officer,"Abstract Concepts, Places, People & Activities"
 fiserv,Domesticated Mammals
 fish,"Birds, Fish, Insects & Other Animals"
 fish and chips,"Birds, Fish, Insects & Other Animals"
@@ -627,68 +626,68 @@ five-lined skink,Wild Mammals
 fjord,Domesticated Mammals
 flag,Wild Mammals
 flamingo,Wild Mammals
-flashback,Reptiles & Amphibians
+flashback,"Abstract Concepts, Places, People & Activities"
 flashlight,Fruits
-flight attendant,"Birds, Fish, Insects & Other Animals"
+flight attendant,"Abstract Concepts, Places, People & Activities"
 flight deck,Domesticated Mammals
-flight engineer,"Cars, Trucks, Boats & Other Motorized Vehicles"
-flight plan,Non-Tree Plants
-flight simulator,Geological Features & Minerals
+flight engineer,"Abstract Concepts, Places, People & Activities"
+flight plan,"Abstract Concepts, Places, People & Activities"
+flight simulator,"Abstract Concepts, Places, People & Activities"
 flint,Fruits
 floor,Domesticated Mammals
-florida,Domesticated Mammals
+florida,"Abstract Concepts, Places, People & Activities"
 flower,Domesticated Mammals
 fluorite,Domesticated Mammals
 fog,Domesticated Mammals
 foot,Domesticated Mammals
-forecast,Aircraft
+forecast,"Abstract Concepts, Places, People & Activities"
 forest,Trees
 fork,Domesticated Mammals
 forklift,Fruits
-fort worth,Domesticated Mammals
+fort worth,"Abstract Concepts, Places, People & Activities"
 fossil,Domesticated Mammals
 fox,Domesticated Mammals
 frame,Trees
-franchise,Fruits
-freedom,Trees
+franchise,"Abstract Concepts, Places, People & Activities"
+freedom,"Abstract Concepts, Places, People & Activities"
 freighter,Domesticated Mammals
 french bulldog,"Birds, Fish, Insects & Other Animals"
 french fries,Trees
 fresno,Trees
 fridge,Trees
 fried chicken,Trees
-friend,Trees
-friendship,Trees
+friend,"Abstract Concepts, Places, People & Activities"
+friendship,"Abstract Concepts, Places, People & Activities"
 frilled-neck lizard,Wild Mammals
 frog,Domesticated Mammals
-front squat,Non-Tree Plants
+front squat,"Abstract Concepts, Places, People & Activities"
 funicular,Natural Non-Geological Features
 fuselage,Trees
 gabbro,Handheld Objects & Tools
-galileo,Motorcycles
-game,Wild Mammals
-gaming,Wild Mammals
-gandhi,Handheld Objects & Tools
+galileo,"Abstract Concepts, Places, People & Activities"
+game,"Abstract Concepts, Places, People & Activities"
+gaming,"Abstract Concepts, Places, People & Activities"
+gandhi,"Abstract Concepts, Places, People & Activities"
 ganges,Trees
 garbage,Trees
 garden,Trees
-gardener,Trees
-gardening,Trees
+gardener,"Abstract Concepts, Places, People & Activities"
+gardening,"Abstract Concepts, Places, People & Activities"
 gargoyle gecko,Buildings & Large Structures
 garnet,Trees
-gary payton,Aircraft
+gary payton,"Abstract Concepts, Places, People & Activities"
 gas can,Reptiles & Amphibians
 gazelle,Trees
-genealogy,Trees
+genealogy,"Abstract Concepts, Places, People & Activities"
 generator,Aircraft
-genre,Domesticated Mammals
-george gervin,Geological Features & Minerals
-george mikan,Non-Tree Plants
-georgia,Domesticated Mammals
+genre,"Abstract Concepts, Places, People & Activities"
+george gervin,"Abstract Concepts, Places, People & Activities"
+george mikan,"Abstract Concepts, Places, People & Activities"
+georgia,"Abstract Concepts, Places, People & Activities"
 gerbil,Domesticated Mammals
 german shepherd,"Birds, Fish, Insects & Other Animals"
 geyser,Domesticated Mammals
-giannis antetokounmpo,"Birds, Fish, Insects & Other Animals"
+giannis antetokounmpo,"Abstract Concepts, Places, People & Activities"
 gila monster,Domesticated Mammals
 giraffe,Aircraft
 glacier,Domesticated Mammals
@@ -700,25 +699,25 @@ glider,Domesticated Mammals
 globe,Domesticated Mammals
 glove,Domesticated Mammals
 gloves,Domesticated Mammals
-glute bridge,Buildings & Large Structures
-glute bridges,Buildings & Large Structures
+glute bridge,"Abstract Concepts, Places, People & Activities"
+glute bridges,"Abstract Concepts, Places, People & Activities"
 gneiss,Trees
 goat,Domesticated Mammals
 gold bar,Wild Mammals
 gold ring,Geological Features & Minerals
 golden retriever,Buildings & Large Structures
 goldfish,"Birds, Fish, Insects & Other Animals"
-golf,Motorcycles
+golf,"Abstract Concepts, Places, People & Activities"
 golf cart,"Cars, Trucks, Boats & Other Motorized Vehicles"
 gondola,Non-Tree Plants
-good morning,Non-Motorized Transportation
+good morning,"Abstract Concepts, Places, People & Activities"
 goose,Domesticated Mammals
 gooseberry,Domesticated Mammals
 gorilla,Non-Tree Plants
 grain,Fruits
 grand canyon,Handheld Objects & Tools
-grandmother,Domesticated Mammals
-grandparent,Non-Tree Plants
+grandmother,"Abstract Concepts, Places, People & Activities"
+grandparent,"Abstract Concepts, Places, People & Activities"
 granite,Fruits
 grape vine,Trees
 grapes,Trees
@@ -735,26 +734,26 @@ greywacke,Trees
 grilled salmon,Wild Mammals
 grizzly bear,"Birds, Fish, Insects & Other Animals"
 grom,Domesticated Mammals
-ground crew,Aircraft
+ground crew,"Abstract Concepts, Places, People & Activities"
 ground power unit,Non-Tree Plants
 gsxr1000,Buildings & Large Structures
 gsxr600,Buildings & Large Structures
 gsxr750,Buildings & Large Structures
 guam,Wild Mammals
 guava,Wild Mammals
-guest star,Geological Features & Minerals
+guest star,"Abstract Concepts, Places, People & Activities"
 guinea pig,Geological Features & Minerals
 guitar,Fruits
 gulf,Fruits
-gyarados,Other Raw Foods
-gymnastics,Domesticated Mammals
+gyarados,"Abstract Concepts, Places, People & Activities"
+gymnastics,"Abstract Concepts, Places, People & Activities"
 gypsum,Motorcycles
 h2r,Domesticated Mammals
 hail,Wild Mammals
-hailstorm,Motorcycles
+hailstorm,"Abstract Concepts, Places, People & Activities"
 hairbrush,Fruits
-hakeem olajuwon,Other Raw Foods
-hal greer,Domesticated Mammals
+hakeem olajuwon,"Abstract Concepts, Places, People & Activities"
+hal greer,"Abstract Concepts, Places, People & Activities"
 halite,Domesticated Mammals
 hamburger,Domesticated Mammals
 hammer,Domesticated Mammals
@@ -767,29 +766,29 @@ harbor,Domesticated Mammals
 hare,Domesticated Mammals
 hat,Aircraft
 havanese,Domesticated Mammals
-hawaii,Other Raw Foods
+hawaii,"Abstract Concepts, Places, People & Activities"
 hawk,"Birds, Fish, Insects & Other Animals"
 hayabusa,Wild Mammals
 headphones,Trees
-heatwave,Other Raw Foods
+heatwave,"Abstract Concepts, Places, People & Activities"
 hedgehog,Handheld Objects & Tools
-height,Domesticated Mammals
+height,"Abstract Concepts, Places, People & Activities"
 helicopter,Domesticated Mammals
 helipad,Other Raw Foods
 helmet,Domesticated Mammals
 hematite,Domesticated Mammals
-hero,Domesticated Mammals
-hewlett packard,Reptiles & Amphibians
+hero,"Abstract Concepts, Places, People & Activities"
+hewlett packard,"Abstract Concepts, Places, People & Activities"
 hibiscus,Reptiles & Amphibians
 highway,Aircraft
-hiking,Reptiles & Amphibians
+hiking,"Abstract Concepts, Places, People & Activities"
 hill,Wild Mammals
-hip circles,Motorcycles
+hip circles,"Abstract Concepts, Places, People & Activities"
 hippopotamus,Wild Mammals
-historian,Aircraft
+historian,"Abstract Concepts, Places, People & Activities"
 hollow hold,Other Raw Foods
-homebrewing,Domesticated Mammals
-honolulu,Motorcycles
+homebrewing,"Abstract Concepts, Places, People & Activities"
+honolulu,"Abstract Concepts, Places, People & Activities"
 hook,Other Raw Foods
 horchata,Aircraft
 horned lizard,Domesticated Mammals
@@ -800,24 +799,23 @@ hospital,Domesticated Mammals
 hot air balloon,Other Raw Foods
 hot dog,"Birds, Fish, Insects & Other Animals"
 hot spring,Domesticated Mammals
-hot-air balloon,Other Raw Foods
 hotdog,"Birds, Fish, Insects & Other Animals"
 hotel,Domesticated Mammals
 house,Buildings & Large Structures
-houston,Domesticated Mammals
+houston,"Abstract Concepts, Places, People & Activities"
 hoverboard,Domesticated Mammals
 hovercraft,Aircraft
 howlite,Domesticated Mammals
-hp inc,Aircraft
+hp inc,"Abstract Concepts, Places, People & Activities"
 hummingbird,"Birds, Fish, Insects & Other Animals"
 hummus,Wild Mammals
-huntsville,Fruits
+huntsville,"Abstract Concepts, Places, People & Activities"
 hurricane,Aircraft
 hybrid car,"Cars, Trucks, Boats & Other Motorized Vehicles"
 hydrangea,Natural Non-Geological Features
 hydrometeor,Domesticated Mammals
 hyena,Domesticated Mammals
-ibm,Wild Mammals
+ibm,"Abstract Concepts, Places, People & Activities"
 ice,Aircraft
 ice axe,Aircraft
 ice cream,Aircraft
@@ -825,77 +823,77 @@ ice cream cone,Geological Features & Minerals
 ice cube,Motorcycles
 ice hockey,Motorcycles
 ice pop,Domesticated Mammals
-idaho,Wild Mammals
-idea,Wild Mammals
+idaho,"Abstract Concepts, Places, People & Activities"
+idea,"Abstract Concepts, Places, People & Activities"
 iguana,Wild Mammals
-illinois,Wild Mammals
+illinois,"Abstract Concepts, Places, People & Activities"
 ils,Fruits
-importance,Transportation Infrastructure
-indiana,Wild Mammals
-indianapolis,Non-Motorized Transportation
+importance,"Abstract Concepts, Places, People & Activities"
+indiana,"Abstract Concepts, Places, People & Activities"
+indianapolis,"Abstract Concepts, Places, People & Activities"
 ink,Fruits
 inn,Non-Tree Plants
 insect,Aircraft
-intel,Domesticated Mammals
-intuit,Fruits
+intel,"Abstract Concepts, Places, People & Activities"
+intuit,"Abstract Concepts, Places, People & Activities"
 iolite,Domesticated Mammals
-iowa,Aircraft
+iowa,"Abstract Concepts, Places, People & Activities"
 irish setter,"Birds, Fish, Insects & Other Animals"
 iron,Aircraft
 ironstone,Domesticated Mammals
-isiah thomas,Wild Mammals
+isiah thomas,"Abstract Concepts, Places, People & Activities"
 island,Wild Mammals
 isthmus,Domesticated Mammals
 italian wall lizard,Natural Non-Geological Features
-ivysaur,Buildings & Large Structures
+ivysaur,"Abstract Concepts, Places, People & Activities"
 jackal,Wild Mammals
 jacket,Aircraft
 jackfruit,Fruits
-jacksonville,"Cars, Trucks, Boats & Other Motorized Vehicles"
+jacksonville,"Abstract Concepts, Places, People & Activities"
 jacksonâ￿￿s chameleon,"Cars, Trucks, Boats & Other Motorized Vehicles"
 jade,Domesticated Mammals
 jaguar,Wild Mammals
-james harden,Reptiles & Amphibians
-james worthy,Domesticated Mammals
+james harden,"Abstract Concepts, Places, People & Activities"
+james worthy,"Abstract Concepts, Places, People & Activities"
 jar,Domesticated Mammals
-jason kidd,Transportation Infrastructure
+jason kidd,"Abstract Concepts, Places, People & Activities"
 jeans,Trees
 jellyfish,"Birds, Fish, Insects & Other Animals"
-jerry lucas,Other Raw Foods
-jerry west,Trees
+jerry lucas,"Abstract Concepts, Places, People & Activities"
+jerry west,"Abstract Concepts, Places, People & Activities"
 jet,Domesticated Mammals
 jet ski,Trees
 jewel,Trees
 jewelry,Domesticated Mammals
-john havlicek,Domesticated Mammals
-john stockton,Motorcycles
-jolteon,Domesticated Mammals
+john havlicek,"Abstract Concepts, Places, People & Activities"
+john stockton,"Abstract Concepts, Places, People & Activities"
+jolteon,"Abstract Concepts, Places, People & Activities"
 joystick,Domesticated Mammals
-judge,Buildings & Large Structures
+judge,"Abstract Concepts, Places, People & Activities"
 jujube,Domesticated Mammals
-julius erving,Geological Features & Minerals
-jumping jack,Buildings & Large Structures
+julius erving,"Abstract Concepts, Places, People & Activities"
+jumping jack,"Abstract Concepts, Places, People & Activities"
 jungle,Motorcycles
-jynx,Motorcycles
+jynx,"Abstract Concepts, Places, People & Activities"
 kabuto,Fruits
 kabutops,Fruits
 kakuna,Wild Mammals
 kangaroo,Prepared Foods & Meals
-kansas,Wild Mammals
-kansas city,Transportation Infrastructure
-kareem abdul-jabbar,Non-Tree Plants
-karl malone,Wild Mammals
+kansas,"Abstract Concepts, Places, People & Activities"
+kansas city,"Abstract Concepts, Places, People & Activities"
+kareem abdul-jabbar,"Abstract Concepts, Places, People & Activities"
+karl malone,"Abstract Concepts, Places, People & Activities"
 katana,Domesticated Mammals
-kawhi leonard,Other Raw Foods
+kawhi leonard,"Abstract Concepts, Places, People & Activities"
 kayak,Wild Mammals
-kayaking,Geological Features & Minerals
-kentucky,Motorcycles
-kettlebell deadlifts,Other Raw Foods
-kettlebell snatches,Reptiles & Amphibians
-kettlebell swings,Reptiles & Amphibians
-kevin durant,"Birds, Fish, Insects & Other Animals"
-kevin garnett,Buildings & Large Structures
-kevin mchale,Wild Mammals
+kayaking,"Abstract Concepts, Places, People & Activities"
+kentucky,"Abstract Concepts, Places, People & Activities"
+kettlebell deadlifts,"Abstract Concepts, Places, People & Activities"
+kettlebell snatches,"Abstract Concepts, Places, People & Activities"
+kettlebell swings,"Abstract Concepts, Places, People & Activities"
+kevin durant,"Abstract Concepts, Places, People & Activities"
+kevin garnett,"Abstract Concepts, Places, People & Activities"
+kevin mchale,"Abstract Concepts, Places, People & Activities"
 key,Domesticated Mammals
 keyboard,Domesticated Mammals
 kimchi,Reptiles & Amphibians
@@ -904,11 +902,11 @@ kite,Domesticated Mammals
 kitty,Fruits
 kiwi,Fruits
 knife,Aircraft
-knitting,Fruits
+knitting,"Abstract Concepts, Places, People & Activities"
 knob,Domesticated Mammals
-knoxville,Motorcycles
+knoxville,"Abstract Concepts, Places, People & Activities"
 koala,Non-Tree Plants
-kobe bryant,"Birds, Fish, Insects & Other Animals"
+kobe bryant,"Abstract Concepts, Places, People & Activities"
 komatiite,Domesticated Mammals
 kombucha,Domesticated Mammals
 komodo dragon,Prepared Foods & Meals
@@ -919,43 +917,43 @@ kyanite,Domesticated Mammals
 labrador retriever,Transportation Infrastructure
 labradorite,Domesticated Mammals
 lace monitor,Domesticated Mammals
-lacrosse,Domesticated Mammals
+lacrosse,"Abstract Concepts, Places, People & Activities"
 ladder,Domesticated Mammals
 ladybug,Wild Mammals
 lagoon,Other Raw Foods
 lake,Motorcycles
-lam research,Geological Features & Minerals
+lam research,"Abstract Concepts, Places, People & Activities"
 lamp,Wild Mammals
 landing gear,Buildings & Large Structures
 lantern,"Birds, Fish, Insects & Other Animals"
 lapis lazuli,Wild Mammals
-lapras,Wild Mammals
+lapras,"Abstract Concepts, Places, People & Activities"
 laptop,Non-Tree Plants
 laptop charger,Domesticated Mammals
 larry bird,"Birds, Fish, Insects & Other Animals"
-las vegas,Prepared Foods & Meals
+las vegas,"Abstract Concepts, Places, People & Activities"
 lasagna,Wild Mammals
-lat pulldown,Natural Non-Geological Features
-lat pulldown machine,Reptiles & Amphibians
+lat pulldown,"Abstract Concepts, Places, People & Activities"
+lat pulldown machine,"Abstract Concepts, Places, People & Activities"
 laterite,Domesticated Mammals
-lawyer,Domesticated Mammals
+lawyer,"Abstract Concepts, Places, People & Activities"
 leaf,Aircraft
-lebron james,Wild Mammals
-leg curl,Buildings & Large Structures
-leg curl machine,Reptiles & Amphibians
-leg extension,Non-Motorized Transportation
-leg extension machine,Reptiles & Amphibians
-leg press,Trees
+lebron james,"Abstract Concepts, Places, People & Activities"
+leg curl,"Abstract Concepts, Places, People & Activities"
+leg curl machine,"Abstract Concepts, Places, People & Activities"
+leg extension,"Abstract Concepts, Places, People & Activities"
+leg extension machine,"Abstract Concepts, Places, People & Activities"
+leg press,"Abstract Concepts, Places, People & Activities"
 lemon,Reptiles & Amphibians
 lemur,Domesticated Mammals
-lenny wilkens,Reptiles & Amphibians
+lenny wilkens,"Abstract Concepts, Places, People & Activities"
 lens,Trees
-leonardo,Prepared Foods & Meals
+leonardo,"Abstract Concepts, Places, People & Activities"
 leopard,Prepared Foods & Meals
 leopard gecko,Prepared Foods & Meals
 letter,Domesticated Mammals
 lettuce,Buildings & Large Structures
-librarian,Reptiles & Amphibians
+librarian,"Abstract Concepts, Places, People & Activities"
 library,Aircraft
 light,Fruits
 light bulb,Aircraft
@@ -967,94 +965,94 @@ limestone,Domesticated Mammals
 limousine,Geological Features & Minerals
 lion,"Birds, Fish, Insects & Other Animals"
 lion statue,"Birds, Fish, Insects & Other Animals"
-literature,Aircraft
+literature,"Abstract Concepts, Places, People & Activities"
 lizard,Aircraft
 llama,Wild Mammals
 lobster,Domesticated Mammals
 lobster tail,Domesticated Mammals
 lock,Motorcycles
 lollipop,Non-Motorized Transportation
-los angeles,Wild Mammals
-louisiana,Fruits
-louisville,Fruits
-love,Domesticated Mammals
+los angeles,"Abstract Concepts, Places, People & Activities"
+louisiana,"Abstract Concepts, Places, People & Activities"
+louisville,"Abstract Concepts, Places, People & Activities"
+love,"Abstract Concepts, Places, People & Activities"
 lunchbox,Handheld Objects & Tools
 lunge,Motorcycles
 lychee,Domesticated Mammals
 mac & cheese,Trees
 machu picchu,Natural Non-Geological Features
-madison,Wild Mammals
-magic,Aircraft
-magic johnson,Domesticated Mammals
+madison,"Abstract Concepts, Places, People & Activities"
+magic,"Abstract Concepts, Places, People & Activities"
+magic johnson,"Abstract Concepts, Places, People & Activities"
 magic wand,Domesticated Mammals
-magikarp,Natural Non-Geological Features
-magmar,Wild Mammals
+magikarp,"Abstract Concepts, Places, People & Activities"
+magmar,"Abstract Concepts, Places, People & Activities"
 magnet,Non-Tree Plants
-magnetite,Domesticated Mammals
+magnetite,"Abstract Concepts, Places, People & Activities"
 magnolia,Natural Non-Geological Features
-maine,Wild Mammals
+maine,"Abstract Concepts, Places, People & Activities"
 maintenance base,Domesticated Mammals
 malachite,Domesticated Mammals
 maltese,Wild Mammals
-manager,Domesticated Mammals
+manager,"Abstract Concepts, Places, People & Activities"
 mango,Wild Mammals
 mangrove forest,Motorcycles
 map,Wild Mammals
 maple,Wild Mammals
 maple tree,Trees
 marble,Trees
-marie antoinette,"Birds, Fish, Insects & Other Animals"
+marie antoinette,"Abstract Concepts, Places, People & Activities"
 marigold,Wild Mammals
 marine iguana,Non-Tree Plants
 market,Trees
 marsh,Trees
-maryland,Non-Tree Plants
+maryland,"Abstract Concepts, Places, People & Activities"
 mask,Wild Mammals
-massachusetts,Fruits
+massachusetts,"Abstract Concepts, Places, People & Activities"
 match group,Other Raw Foods
 matcha,Domesticated Mammals
 meadow,Domesticated Mammals
 meal,Wild Mammals
-mechanic,Domesticated Mammals
-medicine ball russian twists,Non-Tree Plants
-medicine ball slams,Domesticated Mammals
-meditation,Non-Motorized Transportation
+mechanic,"Abstract Concepts, Places, People & Activities"
+medicine ball russian twists,"Abstract Concepts, Places, People & Activities"
+medicine ball slams,"Abstract Concepts, Places, People & Activities"
+meditation,"Abstract Concepts, Places, People & Activities"
 mediterranean house gecko,Buildings & Large Structures
 meerkat,Aircraft
-memphis,Reptiles & Amphibians
-menu,Domesticated Mammals
+memphis,"Abstract Concepts, Places, People & Activities"
+menu,"Abstract Concepts, Places, People & Activities"
 mesa,Trees
-meta platforms,Non-Tree Plants
-metapod,Domesticated Mammals
+meta platforms,"Abstract Concepts, Places, People & Activities"
+metapod,"Abstract Concepts, Places, People & Activities"
 meteor,Domesticated Mammals
-mew,Domesticated Mammals
-mewtwo,Other Raw Foods
+mew,"Abstract Concepts, Places, People & Activities"
+mewtwo,"Abstract Concepts, Places, People & Activities"
 mexican beaded lizard,Domesticated Mammals
-miami,Wild Mammals
-michael jordan,Domesticated Mammals
-michigan,Aircraft
+miami,"Abstract Concepts, Places, People & Activities"
+michael jordan,"Abstract Concepts, Places, People & Activities"
+michigan,"Abstract Concepts, Places, People & Activities"
 micron technology,Natural Non-Geological Features
 microphone,Domesticated Mammals
 microscope,Aircraft
-microsoft,Aircraft
-microstrategy,Aircraft
+microsoft,"Abstract Concepts, Places, People & Activities"
+microstrategy,"Abstract Concepts, Places, People & Activities"
 microwave,Aircraft
-midseason,Wild Mammals
-milwaukee,Wild Mammals
+midseason,"Abstract Concepts, Places, People & Activities"
+milwaukee,"Abstract Concepts, Places, People & Activities"
 miniature schnauzer,Geological Features & Minerals
 minivan,Reptiles & Amphibians
-minneapolis,Other Raw Foods
-minnesota,Domesticated Mammals
+minneapolis,"Abstract Concepts, Places, People & Activities"
+minnesota,"Abstract Concepts, Places, People & Activities"
 mirror,Aircraft
-mississippi,Domesticated Mammals
-missouri,Domesticated Mammals
-mixed martial arts,Domesticated Mammals
+mississippi,"Abstract Concepts, Places, People & Activities"
+missouri,"Abstract Concepts, Places, People & Activities"
+mixed martial arts,"Abstract Concepts, Places, People & Activities"
 mixer,Domesticated Mammals
 mizzle,Motorcycles
 mobile phone,Reptiles & Amphibians
 mojito,Domesticated Mammals
 moldavite,Domesticated Mammals
-moltres,Motorcycles
+moltres,"Abstract Concepts, Places, People & Activities"
 mona lisa,Non-Tree Plants
 money,Domesticated Mammals
 monitor lizard,Non-Tree Plants
@@ -1063,31 +1061,30 @@ monorail,Motorcycles
 monsoon,Non-Motorized Transportation
 monster1200,Domesticated Mammals
 monster821,Domesticated Mammals
-montage,Domesticated Mammals
-montana,Non-Tree Plants
+montage,"Abstract Concepts, Places, People & Activities"
+montana,"Abstract Concepts, Places, People & Activities"
 moon,Motorcycles
 moonstone,Domesticated Mammals
 moose,Domesticated Mammals
 mop,Domesticated Mammals
-moped,Domesticated Mammals
+moped,"Abstract Concepts, Places, People & Activities"
 morganite,Domesticated Mammals
-moses malone,Domesticated Mammals
+moses malone,"Abstract Concepts, Places, People & Activities"
 mosquito net,Domesticated Mammals
 moss,Motorcycles
 motorcycle,"Cars, Trucks, Boats & Other Motorized Vehicles"
-motorola solutions,"Cars, Trucks, Boats & Other Motorized Vehicles"
+motorola solutions,"Abstract Concepts, Places, People & Activities"
 mount everest,Domesticated Mammals
 mount kilimanjaro,Non-Tree Plants
 mountain,Non-Motorized Transportation
 mountain biking,Reptiles & Amphibians
-mountain climber,Domesticated Mammals
-mountain climbers,Motorcycles
+mountain climber,"Abstract Concepts, Places, People & Activities"
 mountain range,Non-Motorized Transportation
 mourning gecko,Buildings & Large Structures
 mouse,Domesticated Mammals
 mousepad,Domesticated Mammals
-mozart,Domesticated Mammals
-mr. mime,Trees
+mozart,"Abstract Concepts, Places, People & Activities"
+mr. mime,"Abstract Concepts, Places, People & Activities"
 mt07,Domesticated Mammals
 mt09,Domesticated Mammals
 mudstone,Motorcycles
@@ -1097,40 +1094,40 @@ mule,Motorcycles
 multistrada,Domesticated Mammals
 museum,Fruits
 music,Fruits
-musician,Aircraft
+musician,"Abstract Concepts, Places, People & Activities"
 nail,Wild Mammals
-napoleon,Motorcycles
+napoleon,"Abstract Concepts, Places, People & Activities"
 narwhal,Wild Mammals
-nashville,Domesticated Mammals
-nate archibald,Domesticated Mammals
-nate thurmond,Other Raw Foods
-nebraska,Other Raw Foods
+nashville,"Abstract Concepts, Places, People & Activities"
+nate archibald,"Abstract Concepts, Places, People & Activities"
+nate thurmond,"Abstract Concepts, Places, People & Activities"
+nebraska,"Abstract Concepts, Places, People & Activities"
 nectarine,Geological Features & Minerals
 needle,Non-Tree Plants
-neighbor,Domesticated Mammals
+neighbor,"Abstract Concepts, Places, People & Activities"
 nest,Trees
-netflix,Non-Tree Plants
+netflix,"Abstract Concepts, Places, People & Activities"
 nettle,Domesticated Mammals
-network,Domesticated Mammals
-nevada,Domesticated Mammals
-new hampshire,Reptiles & Amphibians
-new jersey,Handheld Objects & Tools
-new mexico,Handheld Objects & Tools
-new orleans,Non-Tree Plants
-new york,Other Raw Foods
-new york city,Motorcycles
-newfoundland,Non-Tree Plants
+network,"Abstract Concepts, Places, People & Activities"
+nevada,"Abstract Concepts, Places, People & Activities"
+new hampshire,"Abstract Concepts, Places, People & Activities"
+new jersey,"Abstract Concepts, Places, People & Activities"
+new mexico,"Abstract Concepts, Places, People & Activities"
+new orleans,"Abstract Concepts, Places, People & Activities"
+new york,"Abstract Concepts, Places, People & Activities"
+new york city,"Abstract Concepts, Places, People & Activities"
+newfoundland,"Abstract Concepts, Places, People & Activities"
 newton,Handheld Objects & Tools
 niagara falls,Wild Mammals
 nile monitor,Reptiles & Amphibians
 ninja400,Aircraft
 ninja650,Aircraft
-north carolina,"Cars, Trucks, Boats & Other Motorized Vehicles"
-north dakota,Other Raw Foods
+north carolina,"Abstract Concepts, Places, People & Activities"
+north dakota,"Abstract Concepts, Places, People & Activities"
 northern mariana islands,Other Raw Foods
 notebook,Domesticated Mammals
-nurse,Trees
-nvidia,Wild Mammals
+nurse,"Abstract Concepts, Places, People & Activities"
+nvidia,"Abstract Concepts, Places, People & Activities"
 oak,Domesticated Mammals
 oak tree,Domesticated Mammals
 oasis,Fruits
@@ -1139,33 +1136,33 @@ obsidian,Wild Mammals
 ocean,Domesticated Mammals
 ocelot,Non-Tree Plants
 octopus,Motorcycles
-office,Domesticated Mammals
-ohio,Domesticated Mammals
+office,"Abstract Concepts, Places, People & Activities"
+ohio,"Abstract Concepts, Places, People & Activities"
 oil,Motorcycles
-oklahoma,Wild Mammals
-oklahoma city,Wild Mammals
+oklahoma,"Abstract Concepts, Places, People & Activities"
+oklahoma city,"Abstract Concepts, Places, People & Activities"
 olive,Domesticated Mammals
 olive tree,Domesticated Mammals
-omaha,Domesticated Mammals
+omaha,"Abstract Concepts, Places, People & Activities"
 omanyte,Domesticated Mammals
 omastar,Domesticated Mammals
 onyx,Motorcycles
 opal,Motorcycles
 opossum,Motorcycles
-oracle,Motorcycles
+oracle,"Abstract Concepts, Places, People & Activities"
 orange,Non-Tree Plants
 orangutan,Non-Tree Plants
 orc,Domesticated Mammals
 orchid,Domesticated Mammals
-oregon,Domesticated Mammals
-origami,Domesticated Mammals
-orlando,Non-Tree Plants
-oscar robertson,"Cars, Trucks, Boats & Other Motorized Vehicles"
+oregon,"Abstract Concepts, Places, People & Activities"
+origami,"Abstract Concepts, Places, People & Activities"
+orlando,"Abstract Concepts, Places, People & Activities"
+oscar robertson,"Abstract Concepts, Places, People & Activities"
 ostrich,Domesticated Mammals
 otter,Domesticated Mammals
 oven,Domesticated Mammals
-overhead barbell press,Buildings & Large Structures
-overhead press,Domesticated Mammals
+overhead barbell press,"Abstract Concepts, Places, People & Activities"
+overhead press,"Abstract Concepts, Places, People & Activities"
 owl,Motorcycles
 ozone,Domesticated Mammals
 paddle,Motorcycles
@@ -1174,7 +1171,7 @@ paella,Prepared Foods & Meals
 paint can,Aircraft
 paintbrush,Fruits
 painting,Fruits
-palantir technologies,"Birds, Fish, Insects & Other Animals"
+palantir technologies,"Abstract Concepts, Places, People & Activities"
 palo alto,Non-Tree Plants
 pan,Reptiles & Amphibians
 pancake,Aircraft
@@ -1189,19 +1186,18 @@ pants,"Birds, Fish, Insects & Other Animals"
 papaya,Domesticated Mammals
 paper,Domesticated Mammals
 paper clip,Prepared Foods & Meals
-paperclip,Motorcycles
 paraglider,Natural Non-Geological Features
-parent,Non-Tree Plants
-paris,Fruits
+parent,"Abstract Concepts, Places, People & Activities"
+paris"Abstract Concepts, Places, People & Activities"
 park,Prepared Foods & Meals
 parrot,Aircraft
 passionfruit,Fruits
 pasta,Aircraft
-patience,Transportation Infrastructure
-patrick ewing,Motorcycles
-paul arizin,Geological Features & Minerals
-paul pierce,Natural Non-Geological Features
-paypal,Wild Mammals
+patience,"Abstract Concepts, Places, People & Activities"
+patrick ewing,"Abstract Concepts, Places, People & Activities"
+paul arizin,"Abstract Concepts, Places, People & Activities"
+paul pierce,"Abstract Concepts, Places, People & Activities"
+paypal,"Abstract Concepts, Places, People & Activities"
 peach,Prepared Foods & Meals
 peacock,Other Raw Foods
 pear,Domesticated Mammals
@@ -1212,43 +1208,43 @@ pen,Domesticated Mammals
 pencil,Motorcycles
 penguin,Fruits
 peninsula,Wild Mammals
-pennsylvania,Non-Tree Plants
-percentage,Trees
+pennsylvania,"Abstract Concepts, Places, People & Activities"
+percentage,"Abstract Concepts, Places, People & Activities"
 peridot,Fruits
 peridotite,Domesticated Mammals
 persimmon,Domesticated Mammals
 person,Domesticated Mammals
-pete maravich,Non-Motorized Transportation
+pete maravich,"Abstract Concepts, Places, People & Activities"
 petra,Domesticated Mammals
 petrified forest,Non-Motorized Transportation
 petunia,Fruits
-philadelphia,Wild Mammals
+philadelphia,"Abstract Concepts, Places, People & Activities"
 pho,Domesticated Mammals
-phoenix,Domesticated Mammals
+phoenix,"Abstract Concepts, Places, People & Activities"
 phone,Domesticated Mammals
 photo,Domesticated Mammals
-photographer,Domesticated Mammals
-photography,Motorcycles
+photographer,"Abstract Concepts, Places, People & Activities"
+photography,"Abstract Concepts, Places, People & Activities"
 phyllite,Domesticated Mammals
 piano,Reptiles & Amphibians
 pickup truck,"Cars, Trucks, Boats & Other Motorized Vehicles"
 picture,Transportation Infrastructure
 picture frame,Geological Features & Minerals
-pidgeot,Domesticated Mammals
-pidgeotto,Buildings & Large Structures
-pidgey,Buildings & Large Structures
+pidgeot,"Abstract Concepts, Places, People & Activities"
+pidgeotto,"Abstract Concepts, Places, People & Activities"
+pidgey,"Abstract Concepts, Places, People & Activities"
 pig,Fruits
-pikachu,Aircraft
+pikachu,"Abstract Concepts, Places, People & Activities"
 pike,Domesticated Mammals
 pillow,Wild Mammals
 pilot,Domesticated Mammals
-pilot episode,Domesticated Mammals
+pilot episode,"Abstract Concepts, Places, People & Activities"
 pina colada,Wild Mammals
 pine tree,Trees
 pineapple,Trees
 pineapple slice,Reptiles & Amphibians
 pipe,Domesticated Mammals
-pirate ship,Aircraft
+pirate ship,"Abstract Concepts, Places, People & Activities"
 pizza,Aircraft
 pizza slice,Domesticated Mammals
 plane,Reptiles & Amphibians
@@ -1260,52 +1256,52 @@ plate,Domesticated Mammals
 plateau,Domesticated Mammals
 platypus,Non-Tree Plants
 playground,Reptiles & Amphibians
-plot twist,Transportation Infrastructure
+plot twist,"Abstract Concepts, Places, People & Activities"
 plum,Wild Mammals
-plumber,Domesticated Mammals
+plumber,"Abstract Concepts, Places, People & Activities"
 pneumatic nail gun,Geological Features & Minerals
-podcasting,Non-Motorized Transportation
-poet,Domesticated Mammals
+podcasting,"Abstract Concepts, Places, People & Activities"
+poet,"Abstract Concepts, Places, People & Activities"
 polar bear,"Birds, Fish, Insects & Other Animals"
 police car,"Cars, Trucks, Boats & Other Motorized Vehicles"
-police officer,Geological Features & Minerals
+police officer,"Abstract Concepts, Places, People & Activities"
 pomegranate,Domesticated Mammals
 pomeranian,Domesticated Mammals
 poodle,Motorcycles
 popcorn,Domesticated Mammals
 porcupine,Motorcycles
-portland,Non-Tree Plants
+portland,"Abstract Concepts, Places, People & Activities"
 potato,Domesticated Mammals
 potion bottle,Transportation Infrastructure
-pottery,Domesticated Mammals
+pottery,"Abstract Concepts, Places, People & Activities"
 prairie,Trees
-prediction,Fruits
+prediction,"Abstract Concepts, Places, People & Activities"
 pressure washer,Trees
 printer,Domesticated Mammals
 private jet,Trees
-problem,Domesticated Mammals
-procedure,Domesticated Mammals
+problem,"Abstract Concepts, Places, People & Activities"
+procedure,"Abstract Concepts, Places, People & Activities"
 prop,Domesticated Mammals
 propeller,Domesticated Mammals
-protagonist,Transportation Infrastructure
+protagonist,"Abstract Concepts, Places, People & Activities"
 protein shake,Domesticated Mammals
-puerto rico,Motorcycles
+puerto rico,"Abstract Concepts, Places, People & Activities"
 puffin,Fruits
-pull-up,Reptiles & Amphibians
-pull-up bar exercises,Buildings & Large Structures
+pull-up,"Abstract Concepts, Places, People & Activities"
+pull-up bar exercises,"Abstract Concepts, Places, People & Activities"
 pumice,Fruits
-push-up,Fruits
-pushback tug,Buildings & Large Structures
+push-up,"Abstract Concepts, Places, People & Activities"
+pushback tug,"Abstract Concepts, Places, People & Activities"
 puzzles,Trees
 pyramids,Fruits
 pyramids of giza,Reptiles & Amphibians
 pyrite,Fruits
 quail,Fruits
 qualcomm,Wild Mammals
-quality,Fruits
+quality,"Abstract Concepts, Places, People & Activities"
 quartz,Fruits
 quartzite,Fruits
-queen,Trees
+queen,"Abstract Concepts, Places, People & Activities"
 quill,Fruits
 quilt,Fruits
 r1,Domesticated Mammals
@@ -1321,7 +1317,7 @@ rainbow,Fruits
 raincloud,Other Raw Foods
 raincoat,Fruits
 raindrift,Aircraft
-rainfall,Aircraft
+rainfall,"Abstract Concepts, Places, People & Activities"
 rainforest,Aircraft
 rainpants,"Birds, Fish, Insects & Other Animals"
 rainscape,Fruits
@@ -1330,40 +1326,40 @@ rainy,Fruits
 rake,Trees
 raleigh,Trees
 ramen bowl,Prepared Foods & Meals
-ramp agent,Aircraft
+ramp agent,"Abstract Concepts, Places, People & Activities"
 raspberry,Domesticated Mammals
 rat,Aircraft
-raticate,"Birds, Fish, Insects & Other Animals"
-rating,Aircraft
-rattata,Aircraft
-ray allen,Motorcycles
-reading,Non-Tree Plants
-reality show,Fruits
-recap,Aircraft
+raticate,"Abstract Concepts, Places, People & Activities"
+rating,"Abstract Concepts, Places, People & Activities"
+rattata,"Abstract Concepts, Places, People & Activities"
+ray allen,"Abstract Concepts, Places, People & Activities"
+reading,"Abstract Concepts, Places, People & Activities"
+reality show,"Abstract Concepts, Places, People & Activities"
+recap,"Abstract Concepts, Places, People & Activities"
 red fox,Prepared Foods & Meals
 red panda,Non-Tree Plants
 red-headed agama,Domesticated Mammals
 refrigerator,Aircraft
-reggie miller,Non-Tree Plants
+reggie miller,"Abstract Concepts, Places, People & Activities"
 reindeer,Trees
 remote,Domesticated Mammals
 replacement,Non-Tree Plants
-reporter,Domesticated Mammals
-rerun,Domesticated Mammals
+reporter,"Abstract Concepts, Places, People & Activities"
+rerun,"Abstract Concepts, Places, People & Activities"
 reservoir,Trees
 resistance band chest press,"Abstract Concepts, Places, People & Activities"
-resistance band rows,Non-Tree Plants
-resistance band squats,Non-Tree Plants
+resistance band rows,"Abstract Concepts, Places, People & Activities"
+resistance band squats,"Abstract Concepts, Places, People & Activities"
 restaurant,"Birds, Fish, Insects & Other Animals"
-revenue,Trees
-revolution,Fruits
+revenue,"Abstract Concepts, Places, People & Activities"
+revolution,"Abstract Concepts, Places, People & Activities"
 rhinoceros,Domesticated Mammals
-rhode island,Non-Tree Plants
+rhode island,"Abstract Concepts, Places, People & Activities"
 rhodesian ridgeback,Prepared Foods & Meals
 rhodonite,Domesticated Mammals
 rhyolite,Domesticated Mammals
 rice,Trees
-rick barry,Aircraft
+rick barry,"Abstract Concepts, Places, People & Activities"
 rickshaw,Fruits
 ridge,Trees
 ring,Fruits
@@ -1374,7 +1370,7 @@ road,Aircraft
 roast beef,"Birds, Fish, Insects & Other Animals"
 roast turkey,Transportation Infrastructure
 roast vegetables,Trees
-robert parish,Other Raw Foods
+robert parish,"Abstract Concepts, Places, People & Activities"
 robin,Fruits
 robot,Domesticated Mammals
 robot dog,"Birds, Fish, Insects & Other Animals"
@@ -1384,7 +1380,7 @@ rocket,Aircraft
 rocking chair,Domesticated Mammals
 rod,Other Raw Foods
 rollerblades,Trees
-romanian deadlift,Transportation Infrastructure
+romanian deadlift,"Abstract Concepts, Places, People & Activities"
 rooster,Domesticated Mammals
 rope,Domesticated Mammals
 rope ladder,Non-Tree Plants
@@ -1392,46 +1388,46 @@ rose,Domesticated Mammals
 rose bush,Trees
 rose quartz,Non-Tree Plants
 rottweiler,Domesticated Mammals
-rowing,Fruits
-rowing machine pulls,Wild Mammals
+rowing,"Abstract Concepts, Places, People & Activities"
+rowing machine pulls,"Abstract Concepts, Places, People & Activities"
 rsv4,Trees
 ruby,Fruits
 rug,Fruits
-rugby league,Trees
-rugby union,Fruits
+rugby league,"Abstract Concepts, Places, People & Activities"
+rugby union,"Abstract Concepts, Places, People & Activities"
 ruler,Domesticated Mammals
 rum punch,Fruits
-running,Fruits
+running,"Abstract Concepts, Places, People & Activities"
 runway,Fruits
-russell westbrook,Trees
+russell westbrook,"Abstract Concepts, Places, People & Activities"
 rv,Domesticated Mammals
 s1000r,Domesticated Mammals
 s1000rr,Aircraft
-sacramento,Aircraft
+sacramento,"Abstract Concepts, Places, People & Activities"
 safe,Aircraft
 sagebrush,Fruits
 sahara,Domesticated Mammals
 sahara desert,Domesticated Mammals
 sailboat,"Cars, Trucks, Boats & Other Motorized Vehicles"
-sailing,Reptiles & Amphibians
-sailor,Domesticated Mammals
+sailing,"Abstract Concepts, Places, People & Activities"
+sailor,"Abstract Concepts, Places, People & Activities"
 saint bernard,Other Raw Foods
 sake,Domesticated Mammals
 salad,Domesticated Mammals
 salak,Domesticated Mammals
 salamander,Wild Mammals
-salesforce,Motorcycles
-salesperson,Geological Features & Minerals
+salesforce,"Abstract Concepts, Places, People & Activities"
+salesperson,"Abstract Concepts, Places, People & Activities"
 salmon,Domesticated Mammals
 salt flat,Aircraft
 salt lake city,"Abstract Concepts, Places, People & Activities"
-sam jones,Non-Tree Plants
+sam jones,"Abstract Concepts, Places, People & Activities"
 samosa,Wild Mammals
 samoyed,Domesticated Mammals
-san antonio,"Birds, Fish, Insects & Other Animals"
-san diego,Handheld Objects & Tools
-san francisco,Non-Motorized Transportation
-san jose,Domesticated Mammals
+san antonio,"Abstract Concepts, Places, People & Activities"
+san diego,"Abstract Concepts, Places, People & Activities"
+san francisco,"Abstract Concepts, Places, People & Activities"
+san jose,"Abstract Concepts, Places, People & Activities"
 sand,Domesticated Mammals
 sand lizard,Domesticated Mammals
 sandbag cleans,Prepared Foods & Meals
@@ -1447,38 +1443,38 @@ scarf,"Cars, Trucks, Boats & Other Motorized Vehicles"
 schist,Fruits
 school,Motorcycles
 school bus,Motorcycles
-scientist,Fruits
+scientist,"Abstract Concepts, Places, People & Activities"
 scissors,Motorcycles
 scooter,Domesticated Mammals
 scoria,Domesticated Mammals
-scottie pippen,Reptiles & Amphibians
+scottie pippen,"Abstract Concepts, Places, People & Activities"
 scottish terrier,Domesticated Mammals
 scrambler,Aircraft
-scrapbooking,Aircraft
+scrapbooking,"Abstract Concepts, Places, People & Activities"
 screwdriver,Trees
 script,Fruits
-sculpting,Non-Motorized Transportation
-scyther,Domesticated Mammals
+sculpting,"Abstract Concepts, Places, People & Activities"
+scyther,"Abstract Concepts, Places, People & Activities"
 sea lion,"Birds, Fish, Insects & Other Animals"
 sea turtle,Motorcycles
 seal,Prepared Foods & Meals
 seaplane,Non-Tree Plants
 season,Trees
-seated row,Domesticated Mammals
-seated row machine,Reptiles & Amphibians
-seattle,Domesticated Mammals
+seated row,"Abstract Concepts, Places, People & Activities"
+seated row machine,"Abstract Concepts, Places, People & Activities"
+seattle,"Abstract Concepts, Places, People & Activities"
 sector,Domesticated Mammals
 segway,Other Raw Foods
 sequoia,Fruits
-series finale,Geological Features & Minerals
+series finale,"Abstract Concepts, Places, People & Activities"
 serpentine,Trees
 serpentinite,Trees
-servicenow,Domesticated Mammals
+servicenow,"Abstract Concepts, Places, People & Activities"
 set,Domesticated Mammals
-sewing,Reptiles & Amphibians
-shakespeare,Domesticated Mammals
+sewing,"Abstract Concepts, Places, People & Activities"
+shakespeare,"Abstract Concepts, Places, People & Activities"
 shale,Domesticated Mammals
-shaquille o'neal,Wild Mammals
+shaquille o'neal,"Abstract Concepts, Places, People & Activities"
 shark,"Birds, Fish, Insects & Other Animals"
 sheep,Domesticated Mammals
 shelf,Domesticated Mammals
@@ -1489,124 +1485,121 @@ shih tzu,Aircraft
 ship,Reptiles & Amphibians
 shirt,Aircraft
 shoe,Domesticated Mammals
-shoes,Domesticated Mammals
-shoulder press machine,Reptiles & Amphibians
+shoulder press machine,"Abstract Concepts, Places, People & Activities"
 shovel,Domesticated Mammals
-showrunner,Domesticated Mammals
+showrunner,"Abstract Concepts, Places, People & Activities"
 shrimp cocktail,Non-Motorized Transportation
 shrub,Domesticated Mammals
 siberian husky,Reptiles & Amphibians
-side plank with leg lift,Reptiles & Amphibians
+side plank with leg lift,"Abstract Concepts, Places, People & Activities"
 sidekick,Aircraft
-silence,Trees
+silence,"Abstract Concepts, Places, People & Activities"
 siltstone,Fruits
 singer,Domesticated Mammals
-singing,Buildings & Large Structures
-single-leg romanian deadlifts,Reptiles & Amphibians
+singing,"Abstract Concepts, Places, People & Activities"
+single-leg romanian deadlifts,"Abstract Concepts, Places, People & Activities"
 sink,Trees
-sit-up,Fruits
-sitcom,Fruits
-skate park,Domesticated Mammals
+sit-up,"Abstract Concepts, Places, People & Activities"
+sitcom,"Abstract Concepts, Places, People & Activities"
+skate park,"Abstract Concepts, Places, People & Activities"
 skateboard,Domesticated Mammals
-skateboarding,Domesticated Mammals
-skiing,Buildings & Large Structures
+skateboarding,"Abstract Concepts, Places, People & Activities"
+skiing,"Abstract Concepts, Places, People & Activities"
 skill saw,Wild Mammals
 skirt,Aircraft
 skunk,Trees
 skyscraper,Buildings & Large Structures
 slate,Domesticated Mammals
 sled,Motorcycles
-sled pushes,Trees
+sled pushes,"Abstract Concepts, Places, People & Activities"
 sleeping bag,Reptiles & Amphibians
 sleet,Trees
 sloth,Domesticated Mammals
 slow worm,Motorcycles
 smartphone,Transportation Infrastructure
 smartwatch,Transportation Infrastructure
-smith machine bench press,Buildings & Large Structures
-smith machine squat,Wild Mammals
-smith machine squats,Other Raw Foods
+smith machine bench press,"Abstract Concepts, Places, People & Activities"
+smith machine squat,"Abstract Concepts, Places, People & Activities"
+smith machine squats,"Abstract Concepts, Places, People & Activities"
 smoky quartz,Non-Motorized Transportation
 smoothie,Domesticated Mammals
 snake,Domesticated Mammals
-snatch,Domesticated Mammals
-snorlax,Non-Tree Plants
+snatch,"Abstract Concepts, Places, People & Activities"
+snorlax,"Abstract Concepts, Places, People & Activities"
 snow,Domesticated Mammals
 snow leopard,Domesticated Mammals
-snowboarding,Geological Features & Minerals
+snowboarding,"Abstract Concepts, Places, People & Activities"
 snowfall,Domesticated Mammals
 snowflake,Motorcycles
 snowmobile,Motorcycles
 snowshoe,Domesticated Mammals
 snowstorm,Domesticated Mammals
 soap,Domesticated Mammals
-soap opera,Domesticated Mammals
+soap opera,"Abstract Concepts, Places, People & Activities"
 soapstone,Domesticated Mammals
 soccer,Domesticated Mammals
 soccer ball,Domesticated Mammals
-society,Domesticated Mammals
+society,"Abstract Concepts, Places, People & Activities"
 sock,Motorcycles
-socks,Motorcycles
 sodalite,Domesticated Mammals
 sofa,Domesticated Mammals
 soju,Domesticated Mammals
-soldier,Domesticated Mammals
+soldier,"Abstract Concepts, Places, People & Activities"
 solomon islands skink,Non-Tree Plants
-song,Domesticated Mammals
+song,"Abstract Concepts, Places, People & Activities"
 soup,Domesticated Mammals
 soursop,Domesticated Mammals
-south carolina,"Cars, Trucks, Boats & Other Motorized Vehicles"
-south dakota,Other Raw Foods
+south carolina,"Abstract Concepts, Places, People & Activities"
+south dakota,"Abstract Concepts, Places, People & Activities"
 spaceship,Reptiles & Amphibians
 spaghetti,Domesticated Mammals
 sparrow,Prepared Foods & Meals
-spearow,Prepared Foods & Meals
 speedboat,"Cars, Trucks, Boats & Other Motorized Vehicles"
 speedtriple,Motorcycles
 sphinx,Reptiles & Amphibians
 spider,Domesticated Mammals
-spin-off,Aircraft
+spin-off,"Abstract Concepts, Places, People & Activities"
 spinach,Aircraft
 spinel,Transportation Infrastructure
-splunk,Reptiles & Amphibians
+splunk,"Abstract Concepts, Places, People & Activities"
 sponge,Domesticated Mammals
 spoon,Non-Motorized Transportation
-squat,Fruits
+squat,"Abstract Concepts, Places, People & Activities"
 squid,Fruits
 squirrel,Aircraft
-squirtle,Fruits
+squirtle,"Abstract Concepts, Places, People & Activities"
 stadium,Buildings & Large Structures
-stair climber intervals,Domesticated Mammals
+stair climber intervals,"Abstract Concepts, Places, People & Activities"
 stapler,Domesticated Mammals
 star,Domesticated Mammals
 starfish,"Birds, Fish, Insects & Other Animals"
 starfruit,Fruits
-starmie,Domesticated Mammals
-stationary bike sprints,Non-Tree Plants
+starmie,"Abstract Concepts, Places, People & Activities"
+stationary bike sprints,"Abstract Concepts, Places, People & Activities"
 statue,Domesticated Mammals
 statue of liberty,Geological Features & Minerals
 steak,Domesticated Mammals
-stephen curry,Domesticated Mammals
+stephen curry,"Abstract Concepts, Places, People & Activities"
 steppe,Domesticated Mammals
-steve nash,Trees
+steve nash,"Abstract Concepts, Places, People & Activities"
 stick,Domesticated Mammals
 stone,Domesticated Mammals
 stonehenge,Domesticated Mammals
 storm,Domesticated Mammals
 stove,Domesticated Mammals
 strait,Fruits
-stranger,Domesticated Mammals
+stranger,"Abstract Concepts, Places, People & Activities"
 strawberry,Domesticated Mammals
-streaming,Domesticated Mammals
+streaming,"Abstract Concepts, Places, People & Activities"
 street,Trees
-streetfighter,Domesticated Mammals
+streetfighter,"Abstract Concepts, Places, People & Activities"
 streettriple,Domesticated Mammals
 string,Domesticated Mammals
-student,Domesticated Mammals
+student,"Abstract Concepts, Places, People & Activities"
 studio,Fruits
 submarine,Trees
-subscription,Non-Motorized Transportation
-suburb,Transportation Infrastructure
+subscription,"Abstract Concepts, Places, People & Activities"
+suburb,"Abstract Concepts, Places, People & Activities"
 subway,Reptiles & Amphibians
 sugarcane,Aircraft
 suitcase,Fruits
@@ -1616,24 +1609,24 @@ sunflower,Domesticated Mammals
 sunglasses,Non-Tree Plants
 sunscreen,Trees
 sunstone,Transportation Infrastructure
-superman,Domesticated Mammals
-superman holds,Other Raw Foods
-surfing,Fruits
-surgeon,Trees
+superman,"Abstract Concepts, Places, People & Activities"
+superman holds,"Abstract Concepts, Places, People & Activities"
+surfing,"Abstract Concepts, Places, People & Activities"
+surgeon,"Abstract Concepts, Places, People & Activities"
 sushi,Fruits
 sushi roll,Wild Mammals
 sv650,Trees
 swamp,Domesticated Mammals
 swan,Reptiles & Amphibians
 sweater,Domesticated Mammals
-swimming,Wild Mammals
+swimming,"Abstract Concepts, Places, People & Activities"
 switch,Domesticated Mammals
 sword,Domesticated Mammals
 sydney opera house,Buildings & Large Structures
 syenite,Domesticated Mammals
-t-mobile,Motorcycles
+t-mobile,"Abstract Concepts, Places, People & Activities"
 table,Domesticated Mammals
-table tennis,Trees
+table tennis,"Abstract Concepts, Places, People & Activities"
 tablet,Domesticated Mammals
 taco,Other Raw Foods
 tacos,Other Raw Foods
@@ -1651,28 +1644,28 @@ tape measure,Transportation Infrastructure
 tarmac,Domesticated Mammals
 taxi,Domesticated Mammals
 taxiway,Other Raw Foods
-teacher,Domesticated Mammals
-technology,Other Raw Foods
+teacher,"Abstract Concepts, Places, People & Activities"
+technology,"Abstract Concepts, Places, People & Activities"
 tectonite,Domesticated Mammals
 teddy bear,"Birds, Fish, Insects & Other Animals"
 telescope,Trees
 television,Trees
 temperature,Domesticated Mammals
 temple,Domesticated Mammals
-tennessee,Motorcycles
-tennis,Domesticated Mammals
+tennessee,"Abstract Concepts, Places, People & Activities"
+tennis,"Abstract Concepts, Places, People & Activities"
 tennis ball,Reptiles & Amphibians
 tent,Domesticated Mammals
 tequila,Domesticated Mammals
 terminal,Domesticated Mammals
 tesla,Domesticated Mammals
-texas,Domesticated Mammals
-texas instruments,Non-Tree Plants
+texas,"Abstract Concepts, Places, People & Activities"
+texas instruments,"Abstract Concepts, Places, People & Activities"
 texas spiny lizard,Reptiles & Amphibians
 the hanging gardens of babylon,Reptiles & Amphibians
-theme song,Domesticated Mammals
+theme song,"Abstract Concepts, Places, People & Activities"
 thistle,Domesticated Mammals
-thoracic rotations,Non-Motorized Transportation
+thoracic rotations,"Abstract Concepts, Places, People & Activities"
 thorny devil,Motorcycles
 thread,Domesticated Mammals
 thruster,Domesticated Mammals
@@ -1680,14 +1673,14 @@ thunder,Domesticated Mammals
 thundercloud,Domesticated Mammals
 thunderstorm,Domesticated Mammals
 tiger,"Birds, Fish, Insects & Other Animals"
-tim duncan,Aircraft
+tim duncan,"Abstract Concepts, Places, People & Activities"
 time machine,Reptiles & Amphibians
 tire,Domesticated Mammals
 titanic,Fruits
 toad,Other Raw Foods
 toaster,Domesticated Mammals
 tokay gecko,Handheld Objects & Tools
-tokyo,Motorcycles
+tokyo,"Abstract Concepts, Places, People & Activities"
 tomato,Domesticated Mammals
 tool,Motorcycles
 toolbox,Motorcycles
@@ -1701,7 +1694,7 @@ towel,Domesticated Mammals
 tower,Buildings & Large Structures
 toy,Motorcycles
 toy car,"Cars, Trucks, Boats & Other Motorized Vehicles"
-track and field,Domesticated Mammals
+track and field,"Abstract Concepts, Places, People & Activities"
 tractor,Aircraft
 trail,Domesticated Mammals
 trail marker,Wild Mammals
@@ -1714,86 +1707,85 @@ tramcar,"Cars, Trucks, Boats & Other Motorized Vehicles"
 transponder,Non-Motorized Transportation
 trash can,Reptiles & Amphibians
 travertine,Domesticated Mammals
-treadmill sprints,Reptiles & Amphibians
+treadmill sprints,"Abstract Concepts, Places, People & Activities"
 treasure chest,Trees
 tree,Trees
 tree monitor,Non-Tree Plants
 trekking pole,Trees
-triathlon,Fruits
-trip,Domesticated Mammals
+triathlon,"Abstract Concepts, Places, People & Activities"
+trip,"Abstract Concepts, Places, People & Activities"
 trolley,Domesticated Mammals
 trolleybus,Trees
 tropical-air,Natural Non-Geological Features
 truck,"Cars, Trucks, Boats & Other Motorized Vehicles"
-truth,Fruits
+truth,"Abstract Concepts, Places, People & Activities"
 trx plank to pike,Non-Tree Plants
-tucson,Fruits
+tucson,"Abstract Concepts, Places, People & Activities"
 tuff,Domesticated Mammals
 tulip,Fruits
-tulsa,Motorcycles
+tulsa,"Abstract Concepts, Places, People & Activities"
 tuna,Geological Features & Minerals
 tuono,Other Raw Foods
 turkey,Domesticated Mammals
-turkish get-ups,Motorcycles
+turkish get-ups,"Abstract Concepts, Places, People & Activities"
 turquoise,Fruits
 turtle,Motorcycles
 twilio,Reptiles & Amphibians
 typhoon,Other Raw Foods
-uber technologies,Other Raw Foods
+uber technologies,"Abstract Concepts, Places, People & Activities"
 ugli fruit,Fruits
 umbrella,Non-Tree Plants
 universe,Domesticated Mammals
 university,Fruits
 urchin,Fruits
-us virgin islands,Non-Tree Plants
-user,Domesticated Mammals
-utah,Domesticated Mammals
+us virgin islands,"Abstract Concepts, Places, People & Activities"
+user,"Abstract Concepts, Places, People & Activities"
+utah,"Abstract Concepts, Places, People & Activities"
 uv-index,Fruits
 vacuum,Wild Mammals
 vacuum cleaner,Motorcycles
 valley,Motorcycles
 valve,Motorcycles
 van,Non-Tree Plants
-van gogh,Domesticated Mammals
-vaporeon,Non-Motorized Transportation
+van gogh,"Abstract Concepts, Places, People & Activities"
+vaporeon,"Abstract Concepts, Places, People & Activities"
 vase,Wild Mammals
 vegetable soup,Reptiles & Amphibians
 veiled chameleon,Wild Mammals
-venice,Trees
-venusaur,Domesticated Mammals
-vermont,Domesticated Mammals
-version,Domesticated Mammals
+venice,"Abstract Concepts, Places, People & Activities"
+venusaur,"Abstract Concepts, Places, People & Activities"
+vermont,"Abstract Concepts, Places, People & Activities"
+version,"Abstract Concepts, Places, People & Activities"
 viacomcbs,Wild Mammals
 village,Wild Mammals
 villain,Wild Mammals
 violin,Reptiles & Amphibians
 virga,Aircraft
-virginia,Aircraft
+virginia,"Abstract Concepts, Places, People & Activities"
 virginia beach,Natural Non-Geological Features
 visor,Domesticated Mammals
 vitamin,Wild Mammals
 vizsla,Wild Mammals
 volcano,Non-Tree Plants
 volleyball,Motorcycles
-volunteer,Domesticated Mammals
-volunteering,Domesticated Mammals
+volunteer,"Abstract Concepts, Places, People & Activities"
+volunteering,"Abstract Concepts, Places, People & Activities"
 vr headset,Trees
 vstrom1050,Other Raw Foods
 vstrom650,Other Raw Foods
 vulture,Buildings & Large Structures
 wagon,Domesticated Mammals
 wall,Wild Mammals
-wall sit,Wild Mammals
-wall sits,Fruits
+wall sit,"Abstract Concepts, Places, People & Activities"
 wallet,Aircraft
 walrus,Fruits
-walt frazier,Domesticated Mammals
+walt frazier,"Abstract Concepts, Places, People & Activities"
 wardrobe,Domesticated Mammals
 warthog,Domesticated Mammals
-wartortle,Motorcycles
+wartortle,"Abstract Concepts, Places, People & Activities"
 washing machine,Wild Mammals
-washington,Reptiles & Amphibians
-washington dc,Transportation Infrastructure
+washington,"Abstract Concepts, Places, People & Activities"
+washington dc,"Abstract Concepts, Places, People & Activities"
 watch,Domesticated Mammals
 water,Domesticated Mammals
 water bottle,Other Raw Foods
@@ -1801,17 +1793,17 @@ water dragon,Other Raw Foods
 waterfall,Domesticated Mammals
 watermelon,Domesticated Mammals
 watermelon slice,Natural Non-Geological Features
-way,Aircraft
-wealth,Domesticated Mammals
+way,"Abstract Concepts, Places, People & Activities"
+wealth,"Abstract Concepts, Places, People & Activities"
 weather,Domesticated Mammals
 weather-map,Domesticated Mammals
-weatherize,Domesticated Mammals
-weedle,Trees
-weighted vest push-ups,Reptiles & Amphibians
-weighted vest squats,Domesticated Mammals
+weatherize,"Abstract Concepts, Places, People & Activities"
+weedle,"Abstract Concepts, Places, People & Activities"
+weighted vest push-ups,"Abstract Concepts, Places, People & Activities"
+weighted vest squats,"Abstract Concepts, Places, People & Activities"
 weimaraner,Geological Features & Minerals
 wes unseld,Reptiles & Amphibians
-west virginia,Reptiles & Amphibians
+west virginia,"Abstract Concepts, Places, People & Activities"
 western fence lizard,Other Raw Foods
 wet-grind,Domesticated Mammals
 whale,Domesticated Mammals
@@ -1819,34 +1811,34 @@ wheat,Domesticated Mammals
 wheel,Domesticated Mammals
 whippet,Fruits
 whiteboard,Other Raw Foods
-willis reed,Trees
-wilt chamberlain,Wild Mammals
+willis reed,"Abstract Concepts, Places, People & Activities"
+wilt chamberlain,"Abstract Concepts, Places, People & Activities"
 wind,Wild Mammals
 window,Wild Mammals
 windstorm,Motorcycles
 wing,Fruits
-winterproof,Aircraft
-wisconsin,Reptiles & Amphibians
+winterproof,"Abstract Concepts, Places, People & Activities"
+wisconsin,"Abstract Concepts, Places, People & Activities"
 wolf,"Birds, Fish, Insects & Other Animals"
 wombat,Domesticated Mammals
-woodworking,Other Raw Foods
-workday,Domesticated Mammals
-worldâ￿￿s greatest stretch,Transportation Infrastructure
+woodworking,"Abstract Concepts, Places, People & Activities"
+workday,"Abstract Concepts, Places, People & Activities"
+worldâ￿￿s greatest stretch,"Abstract Concepts, Places, People & Activities"
 wrench,Trees
-wrestling,Trees
-writer,Domesticated Mammals
-writing,Fruits
-wyoming,Domesticated Mammals
+wrestling,"Abstract Concepts, Places, People & Activities"
+writer,"Abstract Concepts, Places, People & Activities"
+writing,"Abstract Concepts, Places, People & Activities"
+wyoming,"Abstract Concepts, Places, People & Activities"
 xerox,Domesticated Mammals
 xylophone,Domesticated Mammals
 yacht,"Cars, Trucks, Boats & Other Motorized Vehicles"
 yak,Aircraft
 yard,Prepared Foods & Meals
-yoga,Domesticated Mammals
+yoga,"Abstract Concepts, Places, People & Activities"
 yogurt,Domesticated Mammals
-zapdos,Prepared Foods & Meals
+zapdos,"Abstract Concepts, Places, People & Activities"
 zebra,Domesticated Mammals
-zercher squat,Aircraft
+zercher squat,"Abstract Concepts, Places, People & Activities"
 zircon,Aircraft
 zoo,Motorcycles
 zx10r,Domesticated Mammals
