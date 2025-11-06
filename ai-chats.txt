@@ -1,2 +1,5 @@
-Brandon: https://claude.ai/share/5a4722e8-8984-49c3-8273-e145b0eb0857 , https://claude.ai/share/87bd9807-669b-41d0-b230-7b0d70e19ff1
+Brandon:
+https://claude.ai/share/5a4722e8-8984-49c3-8273-e145b0eb0857
+https://claude.ai/share/87bd9807-669b-41d0-b230-7b0d70e19ff1
+https://claude.ai/share/54da25f7-91ab-4fb7-baec-1465bc6d8038 (Redoing code from earlier where we had Claude sort the nouns etc. I later changed it when writing code to have the Phi3 model sort the nouns instead)
 Ean: https://claude.ai/share/0fd095e6-74c5-40f2-a5bb-d5b083db5352

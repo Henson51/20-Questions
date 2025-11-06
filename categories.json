@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "Mammals & Wildlife",
+    "Birds & Reptiles",
+    "Domestic Animals",
+    "Wild Mammals",
+    "Marine Life",
+    "Insects & Arachnids",
+    "Houseplants & Garden Flora",
+    "Agricultural Crops",
+    "Natural Landscapes",
+    "Mountains & Valleys",
+    "Rivers & Lakes",
+    "Deserts & Dunes",
+    "Forests & Woodlands",
+    "Historical Figures & Art",
+    "Ancient Civilizations",
+    "Famous Paintings",
+    "Inventions & Discoveries",
+    "Technological Advancements"
+  ],
+  "total_nouns": 1852,
+  "source_file": "nouns.txt"
+}
